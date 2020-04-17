@@ -15,6 +15,8 @@ http://192.168.1.1:4022/rtp/239.45.3.111:5140
 http://192.168.1.1:4022/rtp/239.45.3.112:5140
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海频道",哈哈炫动
 http://192.168.1.1:4022/rtp/239.45.3.187:5140
+#EXTINF:-1 ,上海教育频道[1055*576]
+http://192.168.1.1:4022/rtp/239.45.3.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海频道",外语频道
 http://192.168.1.1:4022/rtp/239.45.3.249:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方购物-1
@@ -183,7 +185,6 @@ http://192.168.1.1:4022/rtp/239.45.1.81:5140
 http://192.168.1.1:4022/rtp/239.45.1.44:5140
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD
 http://192.168.1.1:4022/rtp/239.45.1.45:5140
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",高清导视频道
 http://192.168.1.1:4022/rtp/239.45.3.240:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",导视
@@ -291,24 +292,14 @@ http://192.168.1.1:4022/rtp/239.45.1.61:5140
 #EXTINF:-1 ,风尚购物HD[1920*1530]
 http://192.168.1.1:4022/rtp/239.45.1.59:5140
 
-
 #EXTINF:-1 ,浦东频道[1055*576]
 http://192.168.1.1:4022/rtp/239.45.3.23:5140
 #EXTINF:-1 ,浦东频道[1047*576]
 http://192.168.1.1:4022/rtp/239.45.3.248:5140
-
 #EXTINF:-1 ,百事通纪实频道1[768*576]
 http://192.168.1.1:4022/rtp/239.45.1.103:5140
 
-#EXTINF:-1 ,百事通体育[1024*576]
-http://192.168.1.1:4022/rtp/239.45.1.206:5140
-#EXTINF:-1 ,百事通体育[1024*576]
-http://192.168.1.1:4022/rtp/239.45.1.209:5140
-#EXTINF:-1 ,东方购物[791*576]
-http://192.168.1.1:4022/rtp/239.45.1.254:5140
 
-#EXTINF:-1 ,上海教育频道[1055*576]
-http://192.168.1.1:4022/rtp/239.45.3.122:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",上海教育
 http://192.168.1.1:4022/rtp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂一年级
@@ -331,11 +322,16 @@ http://192.168.1.1:4022/rtp/239.45.3.235:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",防疫宣传
 http://192.168.1.1:4022/rtp/239.45.3.214:5140
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",IPTV推广频道
 http://192.168.1.1:4022/rtp/239.45.3.103:5140
 #EXTINF:-1 ,PP体育HD[1920*1080]
 http://192.168.1.1:4022/rtp/239.45.3.164:5140
+
+
+#EXTINF:-1 ,百事通体育[1024*576]
+http://192.168.1.1:4022/rtp/239.45.1.206:5140
+#EXTINF:-1 ,百事通体育[1024*576]
+http://192.168.1.1:4022/rtp/239.45.1.209:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.81:5140
 #EXTINF:-1 ,百事通体育[1024*576]
