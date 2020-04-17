@@ -289,233 +289,82 @@ http://192.168.1.1:4022/rtp/239.45.1.49:5140
 http://192.168.1.1:4022/rtp/239.45.1.51:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育-2
 http://192.168.1.1:4022/rtp/239.45.1.52:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",空中课堂
-http://192.168.1.1:4022/rtp/239.45.1.50:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.130:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.2:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.3:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.197:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.198:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.199:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.200:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.201:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.202:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.203:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.204:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",快乐宠物
-http://192.168.1.1:4022/rtp/239.45.3.206:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.1.201:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.1.203:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.1.205:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.1.207:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.66:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",金色频道
 http://192.168.1.1:4022/rtp/239.45.1.118:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.1.204:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.57:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.4:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",东方财经
 http://192.168.1.1:4022/rtp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="上海频道",CCTV-高网
 http://192.168.1.1:4022/rtp/239.45.1.243:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",中国气象
 http://192.168.1.1:4022/rtp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.7:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",4K视界
 http://192.168.1.1:4022/rtp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.181:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.71:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",百事通体育[1024*576]直播室9
 http://192.168.1.1:4022/rtp/239.45.1.244:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",百事通体育[1024*576]直播室10
 http://192.168.1.1:4022/rtp/239.45.1.245:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",百事通体育[1024*576]直播室11
 http://192.168.1.1:4022/rtp/239.45.1.246:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",百事通体育[1024*576]直播室12
 http://192.168.1.1:4022/rtp/239.45.1.247:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通体育",百事通体育[1024*576]直播室13
 http://192.168.1.1:4022/rtp/239.45.1.248:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育橄榄球[1024*576]直播室14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",百事通体育橄榄球[1024*576]直播室14
 http://192.168.1.1:4022/rtp/239.45.1.249:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",百事通体育[1024*576]直播室15
 http://192.168.1.1:4022/rtp/239.45.1.250:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通体育",百事通体育[1024*576]直播室208
 http://192.168.1.1:4022/rtp/239.45.3.90:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",CCTV5[1024*576]直播室209
-http://192.168.1.1:4022/rtp/239.45.3.255:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通体育",百事通体育[1024*576]直播室210
 http://192.168.1.1:4022/rtp/239.45.1.208:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通体育[1024*576]直播室211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通体育",百事通体育[1024*576]直播室211
 http://192.168.1.1:4022/rtp/239.45.3.217:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.25:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.102:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知新频道[1920*1080]
 http://192.168.1.1:4022/rtp/239.45.1.40:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",崇明电视[720*576]
 http://192.168.1.1:4022/rtp/239.45.1.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://222.68.210.47:9090/asmiptv/jsp/index,null,101.95.76.92
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.233:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.116:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.117:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.183:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",财经热线
-http://222.68.210.43:8080/static/es/entries/dzcj.html,null,101.95.76.92
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.5:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.6:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.121:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.106:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.128:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.129:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.130:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.98:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.99:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.158:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.159:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.160:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.161:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.162:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.163:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.165:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.167:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",IPTV推广频道
 http://192.168.1.1:4022/rtp/239.45.3.103:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.219:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通4K[3840*2160]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂
 http://192.168.1.1:4022/rtp/239.45.1.106:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通4K[3840*2160]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂
 http://192.168.1.1:4022/rtp/239.45.1.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",百事通4K[3840*2160]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂
 http://192.168.1.1:4022/rtp/239.45.1.108:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",茶频道HD[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂
 http://192.168.1.1:4022/rtp/239.45.1.109:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.98:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",防疫宣传
 http://192.168.1.1:4022/rtp/239.45.3.235:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",防疫宣传
 http://192.168.1.1:4022/rtp/239.45.3.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.127:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",CCTV5[1024*576]未知
-http://192.168.1.1:4022/rtp/239.45.3.254:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.129:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.130:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.9:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.191:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",未知
-http://192.168.1.1:4022/rtp/239.45.3.183:5140
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海频道",劲爆体育HD[1920*1080]
-http://192.168.1.1:4022/rtp/239.45.1.211:5140
 
-#EXTINF:-1 ,未知4K[3840*2160]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.1.2:5140
-#EXTINF:-1 ,未知游戏HD[1920*1080]
-http://192.168.1.1:4022/rtp/239.45.1.5:5140
-#EXTINF:-1 ,未知游戏HD[1920*1080]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.1.1:5140
-#EXTINF:-1 ,未知4K[3840*2160]
-http://192.168.1.1:4022/rtp/239.45.1.3:5140
-#EXTINF:-1 ,粤tv-4K测试[3840*2160]
-http://192.168.1.1:4022/rtp/239.45.1.4:5140
-#EXTINF:-1 ,艺术人文HD[1920*1080]
-http://192.168.1.1:4022/rtp/239.45.1.41:5140
-#EXTINF:-1 ,未知游戏HD[1920*1080]
-http://192.168.1.1:4022/rtp/239.45.1.56:5140
 #EXTINF:-1 ,家有购物HD[1920*1080]
 http://192.168.1.1:4022/rtp/239.45.1.58:5140
 #EXTINF:-1 ,好吃厨房HD[1920*1080]
 http://192.168.1.1:4022/rtp/239.45.1.60:5140
 #EXTINF:-1 ,好吃厨房HD[1920*1080]
 http://192.168.1.1:4022/rtp/239.45.1.61:5140
-#EXTINF:-1 ,62号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.62:5140
-#EXTINF:-1 ,63号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.63:5140
-#EXTINF:-1 ,65号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.65:5140
-#EXTINF:-1 ,57号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.57:5140
-#EXTINF:-1 ,64号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.64:5140
+
 #EXTINF:-1 ,风尚购物HD[1920*1530]
 http://192.168.1.1:4022/rtp/239.45.1.59:5140
-#EXTINF:-1 ,67号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.67:5140
-#EXTINF:-1 ,66号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.66:5140
-#EXTINF:-1 ,73号[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂二年级
 http://192.168.1.1:4022/rtp/239.45.1.73:5140
-#EXTINF:-1 ,72号[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂四年级
 http://192.168.1.1:4022/rtp/239.45.1.72:5140
-#EXTINF:-1 ,75号[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂三年级
 http://192.168.1.1:4022/rtp/239.45.1.75:5140
-#EXTINF:-1 ,74号[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="空中课堂",空中课堂一年级
 http://192.168.1.1:4022/rtp/239.45.1.74:5140
-#EXTINF:-1 ,79号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.79:5140
-#EXTINF:-1 ,76号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.76:5140
-#EXTINF:-1 ,78号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.78:5140
-#EXTINF:-1 ,77号[768*576]
-http://192.168.1.1:4022/rtp/239.45.1.77:5140
 #EXTINF:-1 ,纪实频道1[768*576]
 http://192.168.1.1:4022/rtp/239.45.1.103:5140
-#EXTINF:-1 ,百事通动画HD[1280*720]
+#EXTINF:-1 ,上海教育
 http://192.168.1.1:4022/rtp/239.45.1.110:5140
-#EXTINF:-1 ,哈哈炫动HD[1920*1080]
-http://192.168.1.1:4022/rtp/239.45.1.126:5140
 #EXTINF:-1 ,百事通体育[1024*576]
 http://192.168.1.1:4022/rtp/239.45.1.206:5140
 #EXTINF:-1 ,百事通体育[1024*576]
@@ -526,35 +375,29 @@ http://192.168.1.1:4022/rtp/239.45.1.251:5140
 http://192.168.1.1:4022/rtp/239.45.1.254:5140
 #EXTINF:-1 ,浦东频道[1055*576]
 http://192.168.1.1:4022/rtp/239.45.3.23:5140
-#EXTINF:-1 ,百事通体育[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.81:5140
 #EXTINF:-1 ,百事通体育[1024*576]
-http://192.168.1.1:4022/rtp/239.45.3.89:5140
+http://192.168.1.1:4022/rtp/239.45.3.89:514
 #EXTINF:-1 ,百事通4K[3840*2160]
 http://192.168.1.1:4022/rtp/239.45.3.107:5140
 #EXTINF:-1 ,上海教育频道[1055*576]
 http://192.168.1.1:4022/rtp/239.45.3.122:5140
-#EXTINF:-1 ,百事通体育[1024*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.149:5140
-#EXTINF:-1 ,百事通体育[1024*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.150:5140
-#EXTINF:-1 ,百事通体育[1024*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.151:5140
-#EXTINF:-1 ,百事通体育[1024*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.152:5140
 #EXTINF:-1 ,百事通体育[1024*576]
 http://192.168.1.1:4022/rtp/239.45.3.153:5140
-#EXTINF:-1 ,百事通体育[1024*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.154:5140
-#EXTINF:-1 ,百事通体育[1024*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="学而思",学而思
 http://192.168.1.1:4022/rtp/239.45.3.155:5140
 #EXTINF:-1 ,PP体育HD[1920*1080]
 http://192.168.1.1:4022/rtp/239.45.3.164:5140
-#EXTINF:-1 ,优购物[768*576]
-http://192.168.1.1:4022/rtp/239.45.3.186:5140
-#EXTINF:-1 ,东方财经[791*576]
-http://192.168.1.1:4022/rtp/239.45.3.192:5140
 #EXTINF:-1 ,浦东频道[1047*576]
 http://192.168.1.1:4022/rtp/239.45.3.248:5140
-#EXTINF:-1 ,电视频道[1047*576]
-http://192.168.1.1:4022/rtp/239.45.3.251:5140
