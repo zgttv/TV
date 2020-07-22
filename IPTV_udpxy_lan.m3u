@@ -1,24 +1,24 @@
 #EXTM3U "上海电信IPTV"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1综合HD
 http://192.168.1.1:4022/rtp/239.45.3.145:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV-2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV-2财经
 http://192.168.1.1:4022/rtp/239.45.3.189:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3综艺HD
 http://192.168.1.1:4022/rtp/239.45.1.68:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV-4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV-4中文国际
 http://192.168.1.1:4022/rtp/239.45.3.190:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5体育HD
 http://192.168.1.1:4022/rtp/239.45.1.69:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6电影HD
 http://192.168.1.1:4022/rtp/239.45.1.70:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7军事
 http://192.168.1.1:4022/rtp/239.45.1.193:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8电视剧HD
 http://192.168.1.1:4022/rtp/239.45.1.71:5140
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV",CGTN
-http://192.168.1.1:4022/rtp/239.45.1.194:5140
+#EXTINF:-1 tvg-id=”“ tvg-name=”CCTV9“ tvg-logo=”http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png“ group-title=”CCTV“,CCTV-9纪录HD
+http://192.168.1.1:4022/rtp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV-10科教
 http://192.168.1.1:4022/rtp/239.45.1.195:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV-11戏曲
@@ -31,6 +31,8 @@ http://192.168.1.1:4022/rtp/239.45.1.198:5140
 http://192.168.1.1:4022/rtp/239.45.1.199:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15音乐
 http://192.168.1.1:4022/rtp/239.45.1.200:5140
+#EXTINF:-1 tvg-id=“” tvg-name=“CGTN” tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png” group-title=“CCTV”,CGTN
+http://192.168.1.1:4022/rtp/239.45.1.194:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="CCTV",CCTV-高网
 http://192.168.1.1:4022/rtp/239.45.1.243:5140
@@ -115,13 +117,9 @@ http://192.168.1.1:4022/rtp/239.45.1.52:5140
 http://192.168.1.1:4022/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="区频道",嘉定频道[1020*576]
 http://192.168.1.1:4022/rtp/239.45.3.185:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="区频道",闵行频道[771*576]
-http://192.168.1.1:4022/rtp/239.45.3.218:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="区频道",浦东频道[1055*576]
-http://192.168.1.1:4022/rtp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="区频道",浦东频道[1047*576]
 http://192.168.1.1:4022/rtp/239.45.3.248:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="区频道",黄浦HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="区频道",黄浦频道
 http://192.168.1.1:4022/rtp/239.45.1.40:5140
 
 
@@ -140,8 +138,8 @@ http://192.168.1.1:4022/rtp/239.45.1.53:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",中视购物
 http://192.168.1.1:4022/rtp/239.45.3.79:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",家有购物HD
-http://192.168.1.1:4022/rtp/239.45.1.58:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",家有购物
+http://192.168.1.1:4022/rtp/239.45.1.43:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",好吃厨房HD
 http://192.168.1.1:4022/rtp/239.45.1.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",好吃厨房HD
@@ -237,11 +235,6 @@ http://192.168.1.1:4022/rtp/239.45.3.70:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",IPTV推广频道
 http://192.168.1.1:4022/rtp/239.45.3.103:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K视界
 http://192.168.1.1:4022/rtp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",IPTV-4k电影
-http://192.168.1.1:4022/rtp/239.45.1.106:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",IPTV-4k探索
-http://192.168.1.1:4022/rtp/239.45.1.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",IPTV-4k探索1
-http://192.168.1.1:4022/rtp/239.45.1.108:5140
