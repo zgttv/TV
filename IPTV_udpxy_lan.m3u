@@ -17,7 +17,7 @@ http://192.168.1.1:4022/rtp/239.45.1.70:5140
 http://192.168.1.1:4022/rtp/239.45.1.193:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8电视剧HD
 http://192.168.1.1:4022/rtp/239.45.1.71:5140
-#EXTINF:-1 tvg-id=”“ tvg-name=”CCTV9“ tvg-logo=”http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png“ group-title=”CCTV“,CCTV-9纪录HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9纪录HD
 http://192.168.1.1:4022/rtp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV-10科教
 http://192.168.1.1:4022/rtp/239.45.1.195:5140
@@ -31,7 +31,7 @@ http://192.168.1.1:4022/rtp/239.45.1.198:5140
 http://192.168.1.1:4022/rtp/239.45.1.199:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15音乐
 http://192.168.1.1:4022/rtp/239.45.1.200:5140
-#EXTINF:-1 tvg-id=“” tvg-name=“CGTN” tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png” group-title=“CCTV”,CGTN
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV",CGTN
 http://192.168.1.1:4022/rtp/239.45.1.194:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="CCTV",CCTV-高网
@@ -65,7 +65,7 @@ http://192.168.1.1:4022/rtp/239.45.3.131:5140
 http://192.168.1.1:4022/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",教育台
 http://192.168.1.1:4022/rtp/239.45.3.252:5140
-#EXTINF:-1 tvg-id=“” group-title=“上海频道”,上海教育
+#EXTINF:-1 tvg-id="" group-title="上海频道",上海教育
 http://192.168.1.1:4022/rtp/239.45.3.122:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海频道",七彩戏剧
