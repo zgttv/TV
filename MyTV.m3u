@@ -25,8 +25,6 @@ http://ivi.bupt.edu.cn/hls/dftv.m3u8
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1,TVB翡翠台 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 #EXTINF:-1,风云足球 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
 http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
@@ -51,8 +49,6 @@ http://39.134.168.91/PLTV/1/224/3221225506/index.m3u8
 http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
-#EXTINF:-1,TVB翡翠台 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"
-http://api.kaka-app.xyz/kakatv/proxy.php?vid=vipga&id=6000
 #EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8134369599538150431/1.m3u8?stbId=005301FF001589101611549359B91F12&channel-id=shvoolive&Contentid=8134369599538150431&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=8134369599538150431&owchid=shvoolive&owsid=9856681579531396965&AuthInfo=2TOfGIahP4HrGWrHbpJXVHgbCHVZZF5UUv019%2FSsh88KJM1EuxjKGjHOptOCA%2B9qy7SUSUSlFcfpzdjGKbaNwXQPpC5RWUW%2BWPXxlyqlAmmp3eZqD0kAJRbC1HQjeP48
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
