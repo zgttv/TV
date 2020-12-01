@@ -4,6 +4,8 @@ http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fm
 #EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
+#EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://39.134.115.163:8080/PLTV/88888910/224/3221225795/index.m3u8
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
@@ -103,6 +105,10 @@ http://125.210.152.18:9090/live/CCTV13.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
 #EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
 http://112.17.40.140/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1,浙江卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
+#EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
@@ -111,12 +117,20 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
 http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
+#EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228032/index.m3u8
+#EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230424/index.m3u8
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
 http://121.31.30.91:8085/ysten-business/live/cctv-6/1.m3u8
 #EXTINF:-1,CCTV8 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"
 http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228852/index.m3u8
+#EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229110/index.m3u8
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6705015643145867202/1.m3u8?stbId=005301FF00158910000000212621A501&channel-id=shvoolive&Contentid=6705015643145867202&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6705015643145867202&owchid=shvoolive&owsid=7641431579531463387&AuthInfo=2TOfGIahP4HrGWrHbpJXVGtyhHJPIcRRegoBYBxkr5gU2nvM3aYRu9pk6g1cfGsxitbm7ri6Y%2BkjLjny72IEdjBnss%2Faslq1wPHTyGHeHFYaAuxUDnXfdynLgAo%2FAhgd
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
@@ -127,3 +141,5 @@ http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1,CCTV8 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6718199708332952607/1.m3u8?stbId=005303FF00010060000100E400EDD522&channel-id=shvoolive&Contentid=6718199708332952607&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6718199708332952607&owchid=shvoolive&owsid=5415971579531545952&AuthInfo=dIshjDc3shv8ei%2BWF5V%2F4V6lf0HKCsUdpGR8CeY5ZvwhPD49%2ByoYvwp35mAdL%2Fiv3IhMa6%2BWOwlWxbCOH9ParUjWZpISKyxZZPoQtekRP1dMl%2BCp9T%2BIEdj1ckDKKfLV
+#EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228984/index.m3u8
