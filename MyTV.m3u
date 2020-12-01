@@ -49,6 +49,8 @@ http://39.134.168.91/PLTV/1/224/3221225506/index.m3u8
 http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
+#EXTINF:-1,TVB翡翠台 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"
+http://api.kaka-app.xyz/kakatv/proxy.php?vid=vipga&id=6000
 #EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8134369599538150431/1.m3u8?stbId=005301FF001589101611549359B91F12&channel-id=shvoolive&Contentid=8134369599538150431&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=8134369599538150431&owchid=shvoolive&owsid=9856681579531396965&AuthInfo=2TOfGIahP4HrGWrHbpJXVHgbCHVZZF5UUv019%2FSsh88KJM1EuxjKGjHOptOCA%2B9qy7SUSUSlFcfpzdjGKbaNwXQPpC5RWUW%2BWPXxlyqlAmmp3eZqD0kAJRbC1HQjeP48
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
