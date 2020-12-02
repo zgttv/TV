@@ -5,6 +5,8 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt=
 #EXTINF:-1,风云足球 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?&encrypt=
+#EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
@@ -45,6 +47,8 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/1200/index.m3
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?&&encrypt=
 #EXTINF:-1,风云足球 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq450/350/index.m3u8?&encrypt=
+#EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
@@ -193,6 +197,8 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
+#EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/600/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5new/600/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
