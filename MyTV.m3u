@@ -56,19 +56,19 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/350/inde
 #EXTINF:-1,CCTV15 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/50/index.m3u8?&&encrypt=
 #EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
-http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/hunan/1000/index.m3u8?&encrypt=
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-hunanhd-1200/index.m3u8?&encrypt=
 #EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
-http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/jiangsuTV/1000/index.m3u8?&encrypt=
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/1200/index.m3u8?&encrypt=
 #EXTINF:-1,浙江卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"
-http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/1000/index.m3u8?&encrypt=
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/600/index.m3u8?&encrypt=
 #EXTINF:-1,东方卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
 #EXTINF:-1,北京卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
-http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/beijing/1000/index.m3u8?&encrypt=
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws450/350/index.m3u8?&encrypt=
 #EXTINF:-1,北京体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/2000/index.m3u8?&encrypt=
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
-http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/liaoning/1000/index.m3u8?&encrypt=
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
 #EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-shandonghd-600/index.m3u8?&encrypt=
 #EXTINF:-1,安徽卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"
@@ -193,6 +193,12 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
+#EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5new/600/index.m3u8?&encrypt=
+#EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv6/1000/index.m3u8?&encrypt=
+#EXTINF:-1,CCTV8 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv8/600/index.m3u8?&encrypt=
 #EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228984/index.m3u8
 #EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
