@@ -27,7 +27,7 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/2500/index
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
 #EXTINF:-1,北京卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws711/1000/index.m3u8?&encrypt=
-#EXTINF:-1,北京卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
+#EXTINF:-1,北京体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/3000/index.m3u8?&encrypt=
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
@@ -35,13 +35,13 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/2000
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?&encrypt=
 #EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-shandonghd-1200/index.m3u8?&encrypt=
-#EXTINF:-1,广东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
+#EXTINF:-1,广东体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/1000/index.m3u8?&encrypt=
-#EXTINF:-1,高清武侠 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+#EXTINF:-1,CHC高清武侠 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/75/index.m3u8?&encrypt=
-#EXTINF:-1,高清金庸 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+#EXTINF:-1,CHC高清金庸 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?&encrypt=
-#EXTINF:-1,高清怀旧 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+#EXTINF:-1,CHC高清怀旧 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/75/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?&encrypt=
@@ -71,7 +71,7 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/1000/i
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
 #EXTINF:-1,北京卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/beijing/1000/index.m3u8?&encrypt=
-#EXTINF:-1,北京卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
+#EXTINF:-1,北京体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/2000/index.m3u8?&encrypt=
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/liaoning/1000/index.m3u8?&encrypt=
@@ -79,13 +79,13 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/liaoning/1000/i
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/1000/index.m3u8?&encrypt=
 #EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-shandonghd-600/index.m3u8?&encrypt=
-#EXTINF:-1,广东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
+#EXTINF:-1,广东体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/350/index.m3u8?&encrypt=
-#EXTINF:-1,高清武侠 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+#EXTINF:-1,CHC高清武侠 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/index.m3u8?&encrypt=
-#EXTINF:-1,高清金庸 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+#EXTINF:-1,CHC高清金庸 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/50/index.m3u8?&encrypt=
-#EXTINF:-1,高清怀旧 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+#EXTINF:-1,CHC高清怀旧 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/50/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
