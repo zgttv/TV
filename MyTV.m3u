@@ -69,16 +69,20 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/beijing/1000/in
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/2000/index.m3u8?&encrypt=
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/liaoning/1000/index.m3u8?&encrypt=
-#EXTINF:-1,安徽卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"
-http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/1000/index.m3u8?&encrypt=
 #EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-shandonghd-600/index.m3u8?&encrypt=
+#EXTINF:-1,安徽卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"
+http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/1000/index.m3u8?&encrypt=
 #EXTINF:-1,广东体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/350/index.m3u8?&encrypt=
 #EXTINF:-1,CHC高清武侠 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/index.m3u8?&encrypt=
 #EXTINF:-1,CHC高清金庸 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
 http://183.131.128.233/183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/50/index.m3u8?&encrypt=
+#EXTINF:-1,CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1,CCTV3 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV5 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"
 http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
@@ -87,6 +91,8 @@ http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
 http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1,CCTV13 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"
 http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1,CCTV15 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"
+http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
 #EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
 http://hdtv.haust.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
@@ -99,10 +105,20 @@ http://hdtv.haust.edu.cn/hls/dfhd.m3u8
 http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://hdtv.haust.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
+http://hdtv.haust.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1,安徽卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"
+http://hdtv.haust.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1,星空卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
 http://hdtv.haust.edu.cn/hls/startv.m3u8
 #EXTINF:-1,星空体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
+#EXTINF:-1,CHC高清电影 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+http://hdtv.haust.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1,CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+http://hdtv.haust.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1,CCTV3 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
+http://hdtv.haust.edu.cn/hls/cctv3.m3u8
 #EXTINF:-1,风云足球 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
 http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
@@ -115,6 +131,8 @@ http://hdtv.haust.edu.cn/hls/cctv6.m3u8
 http://hdtv.haust.edu.cn/hls/cctv8.m3u8
 #EXTINF:-1,CCTV13 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"
 http://hdtv.haust.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1,CCTV15 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"
+http://hdtv.haust.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1,湖南卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"
 http://hdtv.haust.edu.cn/hls/hunantv.m3u8
 #EXTINF:-1,江苏卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
@@ -127,6 +145,10 @@ http://hdtv.haust.edu.cn/hls/dftv.m3u8
 http://hdtv.haust.edu.cn/hls/btv1.m3u8
 #EXTINF:-1,辽宁卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
 http://hdtv.haust.edu.cn/hls/lntv.m3u8
+#EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
+http://hdtv.haust.edu.cn/hls/sdtv.m3u8
+#EXTINF:-1,安徽卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"
+http://hdtv.haust.edu.cn/hls/ahtv.m3u8
 #EXTINF:-1,风云足球 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV5+ tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
