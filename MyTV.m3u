@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-http://180.100.156.133:8888/udp/239.49.8.84:8000
+#EXTINF:-1,CCTV13
+http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
 #EXTINF:-1,CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV3 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
