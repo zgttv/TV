@@ -75,7 +75,7 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/2000/index.m3u8?&
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
 #EXTINF:-1,山东卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd-shandonghd-600/index.m3u8?&encrypt=
-#EXTINF:-1,安徽卫视 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png"
+#EXTINF:-1,安徽卫视 tvg-logo="https://gitee.com/zhaoxwing/logo/blob/main/ahtv.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/1000/index.m3u8?&encrypt=
 #EXTINF:-1,广东体育 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/350/index.m3u8?&encrypt=
