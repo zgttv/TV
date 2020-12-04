@@ -119,12 +119,8 @@ http://hdtv.haust.edu.cn/hls/ahhd.m3u8
 http://hdtv.haust.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="",星空体育
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影
 http://hdtv.haust.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV-1综合
 http://hdtv.haust.edu.cn/hls/cctv1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="",CCTV-3综艺
