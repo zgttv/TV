@@ -51,7 +51,7 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq450/350/index
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="",CCTV-5体育
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.ng" group-title="",CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="",CCTV-6电影
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="",CCTV-8电视剧
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
