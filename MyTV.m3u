@@ -88,7 +88,7 @@ http://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-kf.png" group-title="",功夫台
 http://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV-1综合
-http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+http://183.131.128.233/hdtv.haust.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="",CCTV-3综艺
 http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="",CCTV-5体育
