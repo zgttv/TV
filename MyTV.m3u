@@ -126,7 +126,7 @@ http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 ##EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="aikan咪咕",CCTV-8电视剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="aikan咪咕",CCTV-13新闻
-http://125.210.152.18:9090/live/CCTV13.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="aikan咪咕",湖南卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228852/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="aikan咪咕",江苏卫视
@@ -184,7 +184,7 @@ http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ottrrs223",CCTV-13新闻
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="ottrrs223",CCTV-15音乐
-http://player.ioioz.com/1786/0/migum3u8.php?id=673168223
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/qiku.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="ottrrs223",湖南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="ottrrs223",江苏卫视
@@ -205,8 +205,6 @@ http://125.210.152.18:9090/live/TYSSHD_H265.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="liveplay-kk",CCTV-8电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="liveplay-kk",CCTV-13新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="liveplay-kk",CCTV-15音乐
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="liveplay-kk",湖南卫视
