@@ -48,7 +48,7 @@ http://112.17.40.210/wh7f454c46tw2723754360_1011858318/hwltc.tv.cdn.zj.chinamobi
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="tv更新",CCTV-1综合
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="tv更新",CCTV-3综艺
-http://117.169.120.140:8080/live/cctv-3/.m3u8
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="tv更新",五星体育
 http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="tv更新",皇马足球台
@@ -58,7 +58,7 @@ http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="tv更新",CCTV-5体育
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="tv更新",CCTV-6电影
-http://117.169.120.140:8080/live/cctv-6/index.m3u8
+http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="tv更新",CCTV-8电视剧
 http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="tv更新",CCTV-13新闻
@@ -138,7 +138,7 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="aikan咪咕",辽宁卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="39tv",CCTV-3综艺
-http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240245_1
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="39tv",CCTV-体育赛事
 http://39.134.66.66/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="39tv",CCTV-5体育
@@ -237,8 +237,6 @@ http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="tv",CCTV-6电影
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6705015643145867202/1.m3u8?stbId=005301FF00158910000000212621A501&channel-id=shvoolive&Contentid=6705015643145867202&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6705015643145867202&owchid=shvoolive&owsid=7641431579531463387&AuthInfo=2TOfGIahP4HrGWrHbpJXVGtyhHJPIcRRegoBYBxkr5gU2nvM3aYRu9pk6g1cfGsxitbm7ri6Y%2BkjLjny72IEdjBnss%2Faslq1wPHTyGHeHFYaAuxUDnXfdynLgAo%2FAhgd
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="tv",CCTV-6电影
-http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="tv",湖南卫视
 http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="tv",CCTV-8电视剧
