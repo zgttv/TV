@@ -190,13 +190,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="ottrrs",CCTV-13新闻
 http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="ottrrs",CCTV-15音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/qiku.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="ottrrs",湖南卫视
 http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="ottrrs",江苏卫视
 http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="ottrrs",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8
+http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="ottrrs",浙江卫视
 http://ottrrs.hl.chinamobile.com:80/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="ottrrs",北京卫视
