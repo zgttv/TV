@@ -130,9 +130,9 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="aikan咪咕",CCTV-6电影
 http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="aikan咪咕",CCTV-8电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/1.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="aikan咪咕",CCTV-13新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="aikan咪咕",湖南卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228852/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="aikan咪咕",江苏卫视
