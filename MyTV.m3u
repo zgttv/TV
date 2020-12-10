@@ -43,8 +43,6 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="TV咪咕",CHC网剧
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/75/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-dzdy.png" group-title="TV咪咕",动作电影
-http://61.189.255.139/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="TV咪咕",亚洲影院
 http://112.17.40.210/wh7f454c46tw2723754360_1011858318/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890129&hms_devid=1461&online=1592890129&vqe=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="TV咪咕",CHC成龙
@@ -91,12 +89,6 @@ rtmp://58.200.131.2:1935/livetv/startv
 http://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-kf.png" group-title="tv更新",功夫台
 http://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-hd.png" group-title="tv更新",高清电影
-http://61.189.255.139/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
-#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-dzdy.png" group-title="tv更新",动作电影
-http://61.189.255.139/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="tv更新",家庭影院
-http://61.189.255.139/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="ivi高清",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="ivi高清",CCTV-3综艺
@@ -302,5 +294,3 @@ http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="tv",辽宁卫视
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="fyzb",湖南卫视
-http://m.fengyunzhibo.cc/live/hunan/hunantv.html
