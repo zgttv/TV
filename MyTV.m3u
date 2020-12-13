@@ -302,7 +302,7 @@ http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
 http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="cbnlive广电",华语影院
 http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title=group-title="cbnlive广电",经典剧场
+#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="cbnlive广电",经典剧场
 http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="tv",CCTV-5体育
 http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
