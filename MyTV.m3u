@@ -355,5 +355,7 @@ http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="tv",辽宁卫视
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="tv",翡翠台
+http://8rr.co/5FyJ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="tv",古装剧场
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
