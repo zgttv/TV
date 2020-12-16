@@ -341,6 +341,32 @@ http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/78822973
 http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/8785669936177902664/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=8785669936177902664&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7104871599213018997&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahNL9rsQ47%2FVPQ5I1mk1Euevu4ww4P7XntfNX2WiTOL8Ndvf6BV%2B2zKclmpoXZ7t90oK%2B2FmGgVhOPi8JUqoFyt9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="CTTV",明星大片
 http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5897056882324761054/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=5897056882324761054&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=7442591599212142013&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahP5Lmyn3OJ4J6Aip53AWMBrXbMv124U8VO%2BII09D56HuWxaTDouYFoaLx2qOo1slx5dYLw%2FVEvnB4xFtfy0D9qz
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="yunipTV",CCTV-1综合
+http://yuniptvunql.chinayungu.cn:65530/live/cctv1/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="yunipTV",CCTV-体育赛事
+http://yuniptvunql.chinayungu.cn:65530/live/cctv5plus/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="yunipTV",CCTV-5体育
+http://yuniptvunql.chinayungu.cn:65530/live/cctv5/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="yunipTV",CCTV-6电影
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="yunipTV",CCTV-8电视剧
+http://yuniptvunql.chinayungu.cn:65530/live/cctv8/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="yunipTV",CCTV-13新闻
+http://yuniptvunql.chinayungu.cn:65530/live/cctv13/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="yunipTV",湖南卫视
+http://yuniptvunql.chinayungu.cn:65530/live/hunanws/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="yunipTV",江苏卫视
+http://yuniptvunql.chinayungu.cn:65530/live/jsws/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="yunipTV",浙江卫视
+http://yuniptvunql.chinayungu.cn:65530/live/zjws/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="yunipTV",东方卫视
+http://yuniptvunql.chinayungu.cn:65530/live/dfws/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="yunipTV",北京卫视
+http://yuniptvunql.chinayungu.cn:65530/live/bjws/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="yunipTV",辽宁卫视
+http://yuniptvunql.chinayungu.cn:65530/live/lnws/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="yunipTV",安徽卫视
+http://yuniptvunql.chinayungu.cn:65530/live/ahws/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="tv",CCTV-13新闻
 http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="tv",CCTV-5体育
