@@ -43,8 +43,6 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="TVmigu",CHC网剧
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/75/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="TVmigu",亚洲影院
-http://112.17.40.210/wh7f454c46tw2723754360_1011858318/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890129&hms_devid=1461&online=1592890129&vqe=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="TVmigu",CHC成龙
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/75/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="TVmigu",CHC周星驰
