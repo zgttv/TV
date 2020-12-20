@@ -384,32 +384,32 @@ http://8rr.co/5FyJ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="tv",古装剧场
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 综合
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv1_1td.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"   group-title="CCTV",CCTV-2 财经
-https://cctvcnch5c.v.wscdns.com/live/cdrmcctv2_1_1800/playlist.m3u8?wsApp=HLS
+
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3 综艺
-https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv3_1_td.m3u8
+
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV-5+ 体育赛事
-https://cctv5alih5c.v.myalicdn.com/live/cdrmcctv5plus_1td.m3u8
+
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
-https://cctv5txyh5c.liveplay.myqcloud.com/live/cdrmcctv5_1_td.m3u8
+
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6 电影
-https://cctvcnch5c.v.wscdns.com/live/cdrmcctv6_1_1800/playlist.m3u8?wsApp=HLS
+
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7 国防军事
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv7_1td.m3u8
+
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8 电视剧
-https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv8_1_td.m3u8
+
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9 记录
-https://cctvcnch5c.v.wscdns.com/live/cdrmcctvjilu_1_1800/playlist.m3u8?wsApp=HLS
+
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV-10 科教
-https://cctvcnch5c.v.wscdns.com/live/cdrmcctv10_1_1800/playlist.m3u8?wsApp=HLS
+
 #EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV-11 戏曲
-https://cctvalih5c.v.myalicdn.com/live/cdrmcctv11_1td.m3u8
+
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV-12 社会与法
-https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv12_1_td.m3u8
+
 #EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV-13 新闻
-https://cctvcnch5c.v.wscdns.com/live/cdrmcctv13_1_1800/playlist.m3u8?wsApp=HLS
+
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV-14 少儿
-https://cctvksh5c.v.kcdnvip.com/live/cdrmcctvchild_1/index.m3u8?BR=td&region=beijin
+
 #EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15 音乐
-https://cctvksh5c.v.kcdnvip.com/live/cdrmcctv15_1/index.m3u8?BR=td&region=beijing
+
