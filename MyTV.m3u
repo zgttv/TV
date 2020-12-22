@@ -392,7 +392,7 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV-5+ 体育赛事
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
-
+http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6 电影
 
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7 国防军事
