@@ -29,7 +29,7 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/2500/index.
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVmigu",东方卫视
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVmigu",上海五星体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVmigu",劲爆体育
 http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="TVmigu",北京卫视
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws711/1000/index.m3u8?&encrypt=
@@ -59,8 +59,6 @@ http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="TVupdate",皇马足球台
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="TVupdate",FOX SPORTS[HD]
-mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df.ts
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="TVupdate",CCTV-体育赛事
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="TVupdate",CCTV-5体育
@@ -145,10 +143,8 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="aikanTV",四川峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="aikanTV",CBN每日影院
-http://home.lpfcdn.com:4000/udp/235.254.198.192:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="aikanTV",CBN幸福剧场
-http://home.lpfcdn.com:4000/udp/235.254.198.193:7980
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="aikanTV",古装剧场
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="39TV",风云足球
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="39TV",CCTV-体育赛事
@@ -403,8 +399,6 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
 http://8rr.co/5FyJ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="huyaMovie",金庸电影
 http://diyp.top/huya.php?id=11352897
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="huyaMovie",古装剧场
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="huyaMovie",来呀官人
 http://diyp.top/huya.php?id=15763558
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="huyaMovie",恐怖地带
