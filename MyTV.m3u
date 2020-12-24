@@ -141,8 +141,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="aikanTV",辽宁卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="aikanTV",四川峨眉电影
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="aikanTV",古装剧场
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="39TV",风云足球
