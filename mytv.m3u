@@ -29,6 +29,8 @@ http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/2500/index.
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVmigu",东方卫视
 http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="31" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVmigu",五星体育
+http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVmigu",劲爆体育
 http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="TVmigu",北京卫视
@@ -139,6 +141,8 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228032/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="aikanTV",东方卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229092/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="aikanTV",五星体育
+http://112.25.48.14/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="aikanTV",辽宁卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229112/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="aikanTV",古装剧场
@@ -289,6 +293,8 @@ http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-
 http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="JSCMTV",东方卫视
 http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="JSCMTV",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="JSCMTV",北京卫视
 http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="JSCMTV",辽宁卫视
