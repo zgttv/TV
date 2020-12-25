@@ -426,19 +426,19 @@ http://diyp.top/huya.php?id=11352935
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="huyaMovie",吴京电影
 http://diyp.top/huya.php?id=11602045
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 综合
-
+http://183.207.248.71/cntv/live1/PUSSY/cctv-1
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"   group-title="CCTV",CCTV-2 财经
-
+http://183.207.248.71/cntv/live1/PUSSY/cctv-2
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3 综艺
-
+http://183.207.248.71/cntv/live1/PUSSY/cctv-3
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV-5+ 体育赛事
-
+http://183.207.248.71/cntv/live1/PUSSY/hdcctv05plus
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
-
+http://183.207.248.71/cntv/live1/PUSSY/cctv-5
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6 电影
-
+http://183.207.248.71/cntv/live1/PUSSY/cctv-6
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7 国防军事
-
+http://183.207.248.71/cntv/live1/PUSSY/cctv-8
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8 电视剧
 
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9 记录
