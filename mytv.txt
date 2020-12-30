@@ -236,7 +236,6 @@ Best体育,http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8
 山东卫视,http://112.17.40.140/PLTV/88888888/224/3221226587/index.m3u8
 山东卫视,http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 山东卫视,http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000012807/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000012807&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=6334581598888214228&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYBx2ef1XgoDYaEwNtj62jFW9EYnBR353jTfiSC2cVpLNeL2gMKQA9NvHx8k7hUCAf
-翡翠台,http://8rr.co/5FyJ
 电影频道,#genre#
 武侠剧场,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/75/index.m3u8?&encrypt=
 金庸剧场,http://183.131.128.233/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?&encrypt=
