@@ -69,12 +69,8 @@ http://192.168.1.1:4022/rtp/239.45.3.211:5140
 #EXTINF:-1, tvg-id="" tvg-name="Knews24" group-title="上海频道",Knews24高清
 http://192.168.1.1:4022/rtp/239.45.3.164:5140
 
-#EXTINF:-1 tvg-id="" group-title="上海频道",东方电影
-http://192.168.1.1:4022/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",教育台
 http://192.168.1.1:4022/rtp/239.45.3.252:5140
-#EXTINF:-1 tvg-id="" group-title="上海频道",上海教育
-http://192.168.1.1:4022/rtp/239.45.3.122:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海频道",七彩戏剧
 http://192.168.1.1:4022/rtp/239.45.1.112:5140
@@ -237,8 +233,6 @@ http://192.168.1.1:4022/rtp/239.45.1.43:5140
 http://192.168.1.1:4022/rtp/239.45.1.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",快乐购HD
 http://192.168.1.1:4022/rtp/239.45.1.61:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",风尚购物HD
-http://192.168.1.1:4022/rtp/239.45.1.59:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",东方购物-1HD
 http://192.168.1.1:4022/rtp/239.45.3.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物频道",东方购物-2HD
