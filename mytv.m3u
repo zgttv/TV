@@ -39,7 +39,7 @@ http://223.110.241.206:6610/gitv/live1/G_HUNAN-HD-265-5M/G_HUNAN-HD-265-5M
 http://223.110.241.206:6610/gitv/live1/G_GUANGDONG-HD-265-5M/G_GUANGDONG-HD-265-5M
 #EXTINF:-1 tvg-id="dongfangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongfangstv/jgjsfsh.png",东方卫视
 http://223.110.241.206:6610/gitv/live1/G_DONGFANG-HD-265-5M/G_DONGFANG-HD-265-5M
-#EXTINF:-1 tvg-id="HD-2500k-1080P-heilongjiangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-2500k-1080P-heilongjiangstv/hljjskdzy1.png",黑龙江卫视
+#EXTINF:-1 tvg-id="HD-2500k-1080P-heilongjiangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/heilongjiangstv/hljjskdzy1.png",黑龙江卫视
 http://223.110.241.206:6610/gitv/live1/G_HEILONGJIANG-HD-265-5M/G_HEILONGJIANG-HD-265-5M
 #EXTINF:-1 tvg-id="shenzhenstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shenzhenstv/jffa.png",深圳卫视
 http://223.110.241.206:6610/gitv/live1/G_SHENZHEN-HD-265-5M/G_SHENZHEN-HD-265-5M
