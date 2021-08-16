@@ -55,7 +55,7 @@ http://223.110.241.206:6610/gitv/live1/G_ANHUI-HD-265-5M/G_ANHUI-HD-265-5M
 http://223.110.241.206:6610/gitv/live1/G_LIAONING-HD-265-5M/G_LIAONING-HD-265-5M
 #EXTINF:-1 tvg-id="39" tvg-name="五星体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg",五星体育
 http://112.25.48.14/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="GuangDongTiYu.cn" tvg-name="广东体育" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广东体育 (540p)
+#EXTINF:-1 tvg-id="GuangDongTiYu.cn" tvg-name="广东体育" tvg-country="CN" tvg-language="" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="",广东体育 (540p)
 http://149.129.100.78/guangdong.php?id=47
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
