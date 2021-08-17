@@ -1,3 +1,4 @@
+
 {
   "sites": [
     {
@@ -46,10 +47,37 @@
       "playUrl": ""
     },
     {
-      "key": "https://09tv.top/api.php/provide/vod/at/xml",
+      "key": "09蓝光影视",
       "name": "09蓝光影视",
       "type": 0,
       "api": "https://09tv.top/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧",
+        "爱情",
+        "科幻",
+        "恐怖",
+        "剧情",
+        "战争",
+        "大陆剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "纪录",
+        "海外剧",
+        "蓝光电影",
+        "蓝光电视剧",
+        "蓝光动漫"
+      ]
+    },
+    {
+      "key": "爱看影视",
+      "name": "爱看影视",
+      "type": 0,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -80,10 +108,10 @@
       ]
     },
     {
-      "key": "爱看影视",
-      "name": "爱看影视",
+      "key": "饭团影院",
+      "name": "饭团影院",
       "type": 0,
-      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
+      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "动作片",
@@ -114,10 +142,10 @@
       ]
     },
     {
-      "key": "饭团影院",
-      "name": "饭团影院",
+      "key": "蓝果影视",
+      "name": "蓝果影视",
       "type": 0,
-      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/",
+      "api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -137,10 +165,10 @@
       ]
     },
     {
-      "key": "蓝果影视",
-      "name": "蓝果影视",
-      "type": 1,
-      "api": "http://www.languotv.com/api.php/provide/vod/at/xml/",
+      "key": "追剧吧",
+      "name": "追剧吧",
+      "type": 0,
+      "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -179,30 +207,49 @@
       ]
     },
     {
-      "key": "播放呀app",
-      "name": "播放呀app",
+      "key": "明日资源",
+      "name": "明日资源",
       "type": 0,
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "其他片"
-      ]
+      "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
+      "playUrl": ""
     }
   ],
   "lives": [
+    {
+      "group": "足球",
+      "channels": [
+        {
+          "name": "五星体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "魅力足球",
+          "urls": [
+            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育",
+          "urls": [
+            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "足球频道",
+          "urls": [
+            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+          ]
+        },
+        {
+          "name": "广东体育",
+          "urls": [
+            "http://149.129.100.78/guangdong.php?id=47"
+          ]
+        }
+      ]
+    },
     {
       "group": "央视",
       "channels": [
@@ -289,7 +336,9 @@
           "urls": [
             "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8"
           ]
-        },
+        }
+      ]
+    },
     {
       "group": "卫视",
       "channels": [
