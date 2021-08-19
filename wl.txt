@@ -3816,8 +3816,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 997号[854*480],http://em.21dtv.com/songs/60110996.mkv
 998号[854*480],http://em.21dtv.com/songs/60110997.mkv
 999号[853*480],http://em.21dtv.com/songs/60110998.mkv
-更多节目源加QQ群:1030614582
-
 1000号[853*480],http://em.21dtv.com/songs/60110999.mkv
 1001号[853*480],http://em.21dtv.com/songs/60111000.mkv
 1003号[853*480],http://em.21dtv.com/songs/60111002.mkv
@@ -4817,8 +4815,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 1996号[853*480],http://em.21dtv.com/songs/60111995.mkv
 1998号[720*540],http://em.21dtv.com/songs/60111997.mkv
 1999号[853*480],http://em.21dtv.com/songs/60111998.mkv
-更多节目源加QQ群:1030614582
-
 2000号[853*480],http://em.21dtv.com/songs/60111999.mkv
 2001号[854*480],http://em.21dtv.com/songs/60112000.mkv
 2002号[720*540],http://em.21dtv.com/songs/60112001.mkv
@@ -5816,8 +5812,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 2999号[853*480],http://em.21dtv.com/songs/60112998.mkv
 3002号[854*480],http://em.21dtv.com/songs/60113001.mkv
 2998号[854*480],http://em.21dtv.com/songs/60112997.mkv
-更多节目源加QQ群:1030614582
-
 3001号[854*480],http://em.21dtv.com/songs/60113000.mkv
 3003号[853*480],http://em.21dtv.com/songs/60113002.mkv
 3004号[853*480],http://em.21dtv.com/songs/60113003.mkv
@@ -6808,8 +6802,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 3997号[854*480],http://em.21dtv.com/songs/60113996.mkv
 3996号[853*480],http://em.21dtv.com/songs/60113995.mkv
 3998号[854*480],http://em.21dtv.com/songs/60113997.mkv
-更多节目源加QQ群:1030614582
-
 4000号[854*480],http://em.21dtv.com/songs/60113999.mkv
 4001号[854*480],http://em.21dtv.com/songs/60114000.mkv
 3999号[853*480],http://em.21dtv.com/songs/60113998.mkv
@@ -7810,8 +7802,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 4997号[854*480],http://em.21dtv.com/songs/60114996.mkv
 4998号[854*480],http://em.21dtv.com/songs/60114997.mkv
 4999号[854*480],http://em.21dtv.com/songs/60114998.mkv
-更多节目源加QQ群:1030614582
-
 5002号[854*480],http://em.21dtv.com/songs/60115001.mkv
 5001号[854*480],http://em.21dtv.com/songs/60115000.mkv
 5000号[720*540],http://em.21dtv.com/songs/60114999.mkv
@@ -8807,8 +8797,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 5996号[854*480],http://em.21dtv.com/songs/60115995.mkv
 5997号[854*480],http://em.21dtv.com/songs/60115996.mkv
 5998号[720*540],http://em.21dtv.com/songs/60115997.mkv
-更多节目源加QQ群:1030614582
-
 6000号[720*540],http://em.21dtv.com/songs/60115999.mkv
 6001号[853*480],http://em.21dtv.com/songs/60116000.mkv
 5999号[854*480],http://em.21dtv.com/songs/60115998.mkv
@@ -9800,8 +9788,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 6993号[853*480],http://em.21dtv.com/songs/60116992.mkv
 6998号[854*480],http://em.21dtv.com/songs/60116997.mkv
 6999号[854*480],http://em.21dtv.com/songs/60116998.mkv
-更多节目源加QQ群:1030614582
-
 7000号[854*480],http://em.21dtv.com/songs/60116999.mkv
 7002号[720*540],http://em.21dtv.com/songs/60117001.mkv
 7001号[854*480],http://em.21dtv.com/songs/60117000.mkv
@@ -10800,8 +10786,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 7995号[854*480],http://em.21dtv.com/songs/60117994.mkv
 7997号[720*540],http://em.21dtv.com/songs/60117996.mkv
 7998号[720*540],http://em.21dtv.com/songs/60117997.mkv
-更多节目源加QQ群:1030614582
-
 8001号[720*540],http://em.21dtv.com/songs/60118000.mkv
 8000号[720*540],http://em.21dtv.com/songs/60117999.mkv
 7999号[720*540],http://em.21dtv.com/songs/60117998.mkv
@@ -11794,8 +11778,6 @@ Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 8996号[720*540],http://em.21dtv.com/songs/60118995.mkv
 8997号[854*480],http://em.21dtv.com/songs/60118996.mkv
 8999号[854*480],http://em.21dtv.com/songs/60118998.mkv
-更多节目源加QQ群:1030614582
-
 9000号[854*480],http://em.21dtv.com/songs/60118999.mkv
 8998号[720*540],http://em.21dtv.com/songs/60118997.mkv
 9001号[854*480],http://em.21dtv.com/songs/60119000.mkv
