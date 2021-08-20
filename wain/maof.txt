@@ -187,6 +187,13 @@
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+     {
+      "key": "免费影院",
+      "name": "免费影院",
+      "type": 1,
+      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
     {
       "key": "白熊影视",
       "name": "白熊影视",
