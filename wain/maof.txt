@@ -257,13 +257,6 @@
       "type": 0,
       "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
-    }，
-        {
-      "key": "红牛资源",
-      "name": "红牛资源",
-      "type": 0,
-      "api": " http://www.hongniuzy.com/inc/api.php",
-      "playUrl": ""
     }
   ],
   "lives": [
