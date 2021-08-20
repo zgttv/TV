@@ -257,6 +257,13 @@
       "type": 0,
       "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
+    }，
+      {
+      "key": "小蜻蜓APP",
+      "name": "小蜻蜓APP",
+      "type": 0,
+      "api": "http://3ketv.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     }
   ],
   "lives": [
