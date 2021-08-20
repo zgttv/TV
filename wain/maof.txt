@@ -194,11 +194,68 @@
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
-    {
-      "key": "8090资源",
-      "name": "8090资源",
+      {
+      "key": "穿梭资源",
+      "name": "穿梭资源",
       "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "犯罪片",
+        "战争片",
+        "动画电影",
+        "剧情片",
+        "记录片",
+        "国产剧",
+        "香港剧",
+        "日本剧",
+        "欧美剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外剧",
+        "台湾剧",
+        "韩国剧",
+        "歌曲MV"
+      ]
+    },
+    {
+      "key": "安逸影院",
+      "name": "安逸影院",
+      "type": 0,
+      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "福利"
+      ]
+    },
+    {
+      "key": "明日资源",
+      "name": "明日资源",
+      "type": 0,
+      "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
     }
   ],
