@@ -105,6 +105,13 @@
       "playUrl": ""
     },
     {
+      "key": "wsgc_spider",
+      "name": "爬虫源5",
+      "type": 2,
+      "api": "Scrawl5",
+      "playUrl": ""
+    },
+    {
       "key": "橘猫影视",
       "name": "橘猫影视",
       "type": 0,
