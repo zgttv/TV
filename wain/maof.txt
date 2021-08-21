@@ -99,7 +99,7 @@
     },
     {
       "key": "ysgc_spider",
-      "name": "聚合资源",
+      "name": "影视工厂",
       "type": 2,
       "api": "Scrawl4",
       "playUrl": ""
