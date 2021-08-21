@@ -510,6 +510,10 @@
   "parses": [
     {
       "name": "默认",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "name": "vip",
       "url": "https://vip.bljiex.com/?v="
     },
     {
