@@ -201,6 +201,13 @@
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+    {
+      "key": "人人影视",
+      "name": "人人影视",
+      "type": 0,
+      "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+      "playUrl": "https://jx.jiubojx.com/vip.php?url="
+    },
       {
       "key": "穿梭资源",
       "name": "穿梭资源",
