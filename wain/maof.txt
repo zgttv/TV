@@ -143,7 +143,7 @@
       "name": "豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v=",
+      "playUrl": "https://jsap.attakids.com/?url=",
       "categories": [
         "综艺",
         "动作片",
