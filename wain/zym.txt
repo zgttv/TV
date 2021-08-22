@@ -535,11 +535,11 @@
   "parses": [
     {
       "name": "默认",
-      "url": "https://okjx.cc/?url="
+      "url": "https://vip.bljiex.com/?v="
     },
     {
-      "name": "bljiex",
-      "url": "https://vip.bljiex.com/?v="
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
     },
     {
       "name": "急速",
