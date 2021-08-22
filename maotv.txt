@@ -85,7 +85,7 @@
       "name": "爱看影视",
       "type": 0,
       "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "https://vip.bljiex.com/?v=",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动漫",
@@ -199,11 +199,11 @@
       ]
     },
     {
-      "key": "豆瓣云",
-      "name": "豆瓣云",
+      "key": "蘑菇资源",
+      "name": "蘑菇资源",
       "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v=",
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动作片",
@@ -266,7 +266,7 @@
       "name": "百度采集",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
-      "playUrl": "https://vip.bljiex.com/?v="
+      "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
       "key": "陈家影视",
@@ -276,10 +276,10 @@
       "playUrl": "https://jiexi.cjt521.com/?url="
     },
     {
-      "key": "白熊影视",
-      "name": "白熊影视",
+      "key": "小蜻蜓采集",
+      "name": "小蜻蜓采集",
       "type": 0,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
+      "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -294,6 +294,20 @@
       "name": "293影院",
       "type": 0,
       "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
+      "playUrl": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "key": "新女神",
+      "name": "新女神",
+      "type": 0,
+      "api": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "真不卡",
+      "name": "真不卡",
+      "type": 0,
+      "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
       "playUrl": "https://vip.bljiex.com/?v="
     },
     {
