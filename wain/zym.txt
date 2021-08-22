@@ -56,6 +56,13 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
+    {
+      "key": "293资源",
+      "name": "293资源",
+      "type": 0,
+      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
       {
       "key": "柚子资源",
       "name": "柚子资源",
@@ -150,7 +157,7 @@
       "name": "豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v=",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动作片",
@@ -202,10 +209,17 @@
       "playUrl": ""
     },
      {
-      "key": "红牛影院",
-      "name": "红牛影院",
+      "key": "红牛影院切片",
+      "name": "红牛影院切片",
       "type": 1,
       "api": "http://www.hongniuzy.com/inc/api.php",
+      "playUrl": ""
+    },
+     {
+      "key": "605切片资源",
+      "name": "605切片资源",
+      "type": 1,
+      "api": "http://www.605zy.co/inc/api.php",
       "playUrl": ""
     },
     {
@@ -216,11 +230,39 @@
       "playUrl": ""
     },
     {
+      "key": "88资源M3U8切片",
+      "name": "88资源M3U8切片",
+      "type": 0,
+      "api": "http://www.88zy.live/inc/m3u8.php",
+      "playUrl": ""
+    },
+    {
+      "key": "姨妈云",
+      "name": "姨妈云",
+      "type": 0,
+      "api": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "人人影视",
       "name": "人人影视",
       "type": 0,
       "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
       "playUrl": "https://jx.jiubojx.com/vip.php?url="
+    },
+    {
+      "key": "天空资源",
+      "name": "天空资源",
+      "type": 0,
+      "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "追剧吧",
+      "name": "追剧吧",
+      "type": 0,
+      "api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml/",
+      "playUrl": ""
     },
       {
       "key": "穿梭资源",
