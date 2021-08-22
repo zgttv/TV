@@ -78,28 +78,28 @@
     },
     {
       "key": "afys_spider",
-      "name": "爬虫源1",
+      "name": "阿房影视",
       "type": 2,
       "api": "Scrawl1",
       "playUrl": ""
     },
     {
       "key": "jpys_spider",
-      "name": "爬虫源2",
+      "name": "极品影视",
       "type": 2,
       "api": "Scrawl2",
       "playUrl": ""
     },
     {
       "key": "mgys_spider",
-      "name": "爬虫源3",
+      "name": "暮光影视",
       "type": 2,
       "api": "Scrawl3",
       "playUrl": ""
     },
     {
       "key": "ysgc_spider",
-      "name": "爬虫源4",
+      "name": "影视工厂",
       "type": 2,
       "api": "Scrawl4",
       "playUrl": ""
@@ -143,7 +143,7 @@
       "name": "豆瓣云",
       "type": 0,
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v=",
+      "playUrl": "https://jsap.attakids.com/?url=",
       "categories": [
         "综艺",
         "动作片",
@@ -194,19 +194,19 @@
       "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
-     {
-      "key": "红牛影院",
-      "name": "红牛影院",
-      "type": 1,
-      "api": "http://www.hongniuzy.com/inc/api.php",
-      "playUrl": ""
-    },
     {
       "key": "白熊影视",
       "name": "白熊影视",
       "type": 0,
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+    },
+    {
+      "key": "人人影视",
+      "name": "人人影视",
+      "type": 0,
+      "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
+      "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
       {
       "key": "穿梭资源",
