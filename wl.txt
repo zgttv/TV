@@ -27,7 +27,6 @@ OK,http://ok.888hyk.com/api.php/provide/vod/at/xml,解析
 快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml,解析
 39影视,https://www.39kan.com/api.php/provide/vod/at/xml,解析
 明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
-6U,http://zy.ataoju.com/inc/api.php,解析
 结束
 解析：
 jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
