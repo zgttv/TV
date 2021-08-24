@@ -335,10 +335,10 @@
       "playUrl": "https://vip.bljiex.com/?v="
     },
     {
-      "key": "欧乐影院",
-      "name": "欧乐影院",
+      "key": "亦龙APP",
+      "name": "亦龙APP",
       "type": 0,
-      "api": "https://www.olevod.com/api.php/provide/vod/at/xml",
+      "api": "http://app2.yilongys.cn/api.php/provide/vod/at/xml",
       "playUrl": "https://vip.bljiex.com/?v="
     },
     {
