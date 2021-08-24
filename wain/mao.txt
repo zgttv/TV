@@ -2,10 +2,10 @@
 {
   "sites": [
     {
-      "key": "M3U8.TV",
-      "name": "M3U8.TV",
+      "key": "快播云",
+      "name": "快播云",
       "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "categories": [
         "国产剧",
@@ -26,295 +26,14 @@
       ]
     },
     {
-      "key": "豆瓣云",
-      "name": "豆瓣云",
+      "key": "影派资源",
+      "name": "影派资源",
       "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v=",
-      "categories": [
-        "综艺",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "微电影",
-        "纪录片",
-        "伦理片",
-        "冒险片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "魔幻片",
-        "青春片",
-        "音乐片",
-        "其他片",
-        "惊悚片",
-        "动画片",
-        "奇幻片",
-        "台湾剧",
-        "日本剧",
-        "其他剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "其他动漫"
-      ]
-    },
-    {
-      "key": "8090资源",
-      "name": "8090资源",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     }
   ],
-  "lives": [
-    {
-      "group": "足球",
-      "channels": [
-        {
-          "name": "五星体育",
-          "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "魅力足球",
-          "urls": [
-            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "劲爆体育",
-          "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "足球频道",
-          "urls": [
-            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
-          ]
-        },
-        {
-          "name": "广东体育",
-          "urls": [
-            "http://149.129.100.78/guangdong.php?id=47"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "央视",
-      "channels": [
-        {
-          "name": "CCTV-1综合",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ"
-          ]
-        },
-        {
-          "name": "CCTV-2财经",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ"
-          ]
-        },
-        {
-          "name": "CCTV-3综艺",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ"
-          ]
-        },
-        {
-          "name": "CCTV-4中文国际",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ"
-          ]
-        },
-        {
-          "name": "CCTV-5体育",
-          "urls": [
-            "http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv5/1.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-5+体育赛事",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/"
-          ]
-        },
-        {
-          "name": "CCTV-6电影",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ"
-          ]
-        },
-        {
-          "name": "CCTV-7军事农业",
-          "urls": [
-            "http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-8电视剧",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ"
-          ]
-        },
-        {
-          "name": "CCTV-9纪录",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M"
-          ]
-        },
-        {
-          "name": "CCTV-10科教",
-          "urls": [
-            "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv10/1.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-12社会与法",
-          "urls": [
-            "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv12/1.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-13新闻",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ"
-          ]
-        },
-        {
-          "name": "CCTV-14少儿",
-          "urls": [
-            "http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "卫视",
-      "channels": [
-        {
-          "name": "安徽卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_ANHUI-HD-265-5M/G_ANHUI-HD-265-5M"
-          ]
-        },
-        {
-          "name": "北京卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_BEIJING-HD-265-5M/G_BEIJING-HD-265-5M"
-          ]
-        },
-        {
-          "name": "东方卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_DONGFANG-HD-265-5M/G_DONGFANG-HD-265-5M"
-          ]
-        },
-        {
-          "name": "广东卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_GUANGDONG-HD-265-5M/G_GUANGDONG-HD-265-5M"
-          ]
-        },
-        {
-          "name": "黑龙江卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_HEILONGJIANG-HD-265-5M/G_HEILONGJIANG-HD-265-5M"
-          ]
-        },
-        {
-          "name": "湖北卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_HUBEI-HD-265-5M/G_HUBEI-HD-265-5M"
-          ]
-        },
-        {
-          "name": "湖南卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_HUNAN-HD-265-5M/G_HUNAN-HD-265-5M"
-          ]
-        },
-        {
-          "name": "江苏卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_JIANGSU-HD-265-5M/G_JIANGSU-HD-265-5M"
-          ]
-        },
-        {
-          "name": "辽宁卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_LIAONING-HD-265-5M/G_LIAONING-HD-265-5M"
-          ]
-        },
-        {
-          "name": "山东卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_SHANDONG-HD-265-5M/G_SHANDONG-HD-265-5M"
-          ]
-        },
-        {
-          "name": "深圳卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_SHENZHEN-HD-265-5M/G_SHENZHEN-HD-265-5M"
-          ]
-        },
-        {
-          "name": "天津卫视",
-          "urls": [
-            "http://223.110.241.206:6610/gitv/live1/G_TIANJIN-HD-265-5M/G_TIANJIN-HD-265-5M"
-          ]
-        }
-      ]
-    }
-  ],
   "parses": [
-    {
-      "name": "默认",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "急速",
-      "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "智能1",
-      "url": "https://9kjx.com/?url="
-    },
-    {
-      "name": "智能2",
-      "url": "https://vip.kurumit3.top/?v="
-    },
-    {
-      "name": "7K",
-      "url": "https://jx.7kjx.com/?url="
-    },
-    {
-      "name": "星空",
-      "url": "http://60jx.com/?url="
-    },
-    {
-      "name": "虾米",
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "u猫",
-      "url": "http://jiex.cf/?url="
-    },
     {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
@@ -330,6 +49,10 @@
     {
       "name": "B站解析2",
       "url": "https://www.cuan.la/m3u8.php?url="
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "Ckplayer",
@@ -408,6 +131,10 @@
       "url": "https://jx.youyitv.com/?url="
     },
     {
+      "name": "老板",
+      "url": "https://vip.laobandq.com/jiexi.php?url="
+    },
+    {
       "name": "乐喵",
       "url": "https://jx.hao-zsj.cn/vip/?url="
     },
@@ -424,16 +151,32 @@
       "url": "https://jx.wzslw.cn/?url="
     },
     {
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
+    },
+    {
       "name": "维多",
       "url": "https://jx.ivito.cn/?url="
+    },
+    {
+      "name": "小蒋",
+      "url": "https://www.kpezp.cn/jlexi.php?url="
     },
     {
       "name": "小狼",
       "url": "https://jx.yaohuaxuan.com/?url="
     },
     {
+      "name": "智能",
+      "url": "https://vip.kurumit3.top/?v="
+    },
+    {
       "name": "星驰",
       "url": "https://vip.cjys.top/?url="
+    },
+    {
+      "name": "星空",
+      "url": "http://60jx.com/?url="
     },
     {
       "name": "月亮",
