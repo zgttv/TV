@@ -1,12 +1,5 @@
-
+{
 "sites":[
-  {
-    "key": "麻瓜影院",
-    "name": "麻瓜影院",
-    "type": 0,
-    "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
-    "playUrl": ""
-  },
     {
       "key": "影派资源",
       "name": "影派资源",
@@ -15,3 +8,4 @@
       "playUrl": ""
     }
   ],
+}
