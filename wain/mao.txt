@@ -2,14 +2,10 @@
 "sites":[
   {
     "key": "麻瓜影院",
-    "id": 1,
     "name": "麻瓜影院",
+    "type": 0,
     "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "http://jx.maguays.cc/?url=",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
+    "playUrl": ""
   },
     {
       "key": "影派资源",
