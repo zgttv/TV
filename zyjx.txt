@@ -2,10 +2,10 @@
 柚子,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,不解析
 八戒,http://cj.bajiecaiji.com/inc/bjm3u8.php,不解析
 豆瓣,http://api.dbyunzy.com/api.php/provide/vod/at/xml,不解析
-饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
 快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml,不解析
 影院,http://www.ruiuri.com/api.php/provide/vod/at/xml,不解析
 免费,http://www.ruiuri.com/api.php/provide/vod/at/xml,不解析
+饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
 明日,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 宅看,http://zhaikanys.xyz/api.php/provide/vod/at/xml,解析
@@ -15,7 +15,6 @@ m3u8,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 
 解析：
 jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
-速云,http://dm.199cn.cn/vip/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
 麻瓜,http://player.maguays.cc/?url=
 奇米,http://qimihe.com/?url=
