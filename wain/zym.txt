@@ -98,31 +98,17 @@
       "playUrl": ""
     },
     {
-      "key": "蘑菇云影",
-      "name": "蘑菇云影",
+      "key": "蘑菇云影p",
+      "name": "蘑菇云影p",
       "type": 2,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
     },
     {
-      "key": "mgys_spider",
-      "name": "爬虫源3",
+      "key": "zyc",
+      "name": "zyc",
       "type": 2,
-      "api": "Scrawl3",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
