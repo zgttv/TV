@@ -100,14 +100,14 @@
     {
       "key": "蘑菇云影p",
       "name": "蘑菇云影p",
-      "type": 2,
+      "type": 0,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
       "key": "zyc",
       "name": "zyc",
-      "type": 2,
+      "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
