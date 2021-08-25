@@ -98,10 +98,10 @@
       "playUrl": ""
     },
     {
-      "key": "jpys_spider",
-      "name": "爬虫源2",
+      "key": "蘑菇云影",
+      "name": "蘑菇云影",
       "type": 2,
-      "api": "Scrawl2",
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
