@@ -91,8 +91,8 @@
       ]
     },
     {
-      "key": "阿房影视",
-      "name": "阿房影视",
+      "key": "38影视",
+      "name": "38影视",
       "type": 0,
       "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
       "playUrl": ""
