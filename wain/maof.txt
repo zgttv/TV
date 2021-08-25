@@ -87,14 +87,14 @@
       "key": "jpys_spider",
       "name": "极品影视",
       "type": 2,
-      "api": "Scrawl2",
+      "api": "3wvt",
       "playUrl": ""
     },
     {
       "key": "mgys_spider",
       "name": "暮光影视",
       "type": 2,
-      "api": "Scrawl3",
+      "api": "3wvB",
       "playUrl": ""
     },
     {
