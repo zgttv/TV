@@ -112,10 +112,10 @@
       "playUrl": ""
     },
     {
-      "key": "ysgc_spider",
-      "name": "爬虫源4",
-      "type": 2,
-      "api": "Scrawl4",
+      "key": "DTJ",
+      "name": "DTJ",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
