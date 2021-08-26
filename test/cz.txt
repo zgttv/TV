@@ -108,6 +108,13 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+        {
+      "key": "百度资源",
+      "name": "百度资源",
+      "type": 0,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
       {
       "key": "柚子资源",
       "name": "柚子资源",
@@ -337,8 +344,8 @@
       ]
     },
     {
-      "key": "无尽资源",
-      "name": "无尽资源",
+      "key": "39资源",
+      "name": "39资源",
       "type": 0,
       "api": "https://api.wujinapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
