@@ -238,7 +238,28 @@
       "name": "人人影视",
       "type": 0,
       "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
-      "playUrl": "https://jx.jiubojx.com/vip.php?url="
+      "playUrl": "https://jx.jiubojx.com/vip.php?url=",
+      "categories": [
+"电影",
+"美剧",
+"科幻动作",
+"欧美片",
+"综艺选秀",
+"悬疑烧脑",
+"喜剧青春",
+"日韩片",
+"科幻片",
+"动作片",
+"动漫卡通",
+"精英文艺",
+"喜剧片",
+"恐怖片",
+"爱情片",
+"剧情片",
+"韩剧",
+"电视台直播",
+"国产剧"
+]
     },
     {
       "key": "天空资源",
