@@ -33,40 +33,6 @@
       "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
     {
-      "key": "293资源",
-      "name": "293资源",
-      "type": 0,
-      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-      {
-      "key": "柚子资源",
-      "name": "柚子资源",
-      "type": 0,
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧",
-        "爱情",
-        "科幻",
-        "恐怖",
-        "剧情",
-        "战争",
-        "大陆剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "纪录",
-        "海外剧",
-        "蓝光电影",
-        "蓝光电视剧",
-        "蓝光动漫"
-      ]
-    },
-    {
       "key": "afys_spider",
       "name": "爬虫源1",
       "type": 2,
@@ -126,6 +92,40 @@
         "篮球",
         "足球",
         "网球"
+      ]
+    },
+        {
+      "key": "293资源",
+      "name": "293资源",
+      "type": 0,
+      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+      {
+      "key": "柚子资源",
+      "name": "柚子资源",
+      "type": 0,
+      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧",
+        "爱情",
+        "科幻",
+        "恐怖",
+        "剧情",
+        "战争",
+        "大陆剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "纪录",
+        "海外剧",
+        "蓝光电影",
+        "蓝光电视剧",
+        "蓝光动漫"
       ]
     },
       {
