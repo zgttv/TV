@@ -128,6 +128,13 @@
         "网球"
       ]
     },
+      {
+      "key": "蘑菇资源",
+      "name": "蘑菇资源",
+      "type": 0,
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
     {
       "key": "豆瓣云",
       "name": "豆瓣云",
