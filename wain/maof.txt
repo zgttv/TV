@@ -80,21 +80,21 @@
       "key": "afys_spider",
       "name": "阿房影视",
       "type": 2,
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "api": "Scrawl1",
       "playUrl": ""
     },
     {
       "key": "jpys_spider",
       "name": "极品影视",
       "type": 2,
-      "api": "3wvt",
+      "api": "Scrawl2",
       "playUrl": ""
     },
     {
       "key": "mgys_spider",
       "name": "暮光影视",
       "type": 2,
-      "api": "3wvB",
+      "api": "Scrawl3",
       "playUrl": ""
     },
     {
