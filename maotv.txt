@@ -28,7 +28,7 @@
     {
       "key": "jpysvip",
       "name": "爬虫源1",
-      "type": 2,
+      "type": 0,
       "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "quickSearch": 0
@@ -36,7 +36,7 @@
     {
       "key": "zycaiji",
       "name": "爬虫源2",
-      "type": 2,
+      "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": "",
       "quickSearch": 0
@@ -44,7 +44,7 @@
     {
       "key": "88zy",
       "name": "爬虫源3",
-      "type": 2,
+      "type": 0,
       "api": "http://www.88zy.live/inc/m3u8.php",
       "playUrl": "",
       "searchable": 0
@@ -52,7 +52,7 @@
     {
       "key": "51isu",
       "name": "爬虫源4",
-      "type": 2,
+      "type": 0,
       "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 0
@@ -60,7 +60,7 @@
     {
       "key": "dtjos",
       "name": "爬虫源5",
-      "type": 2,
+      "type": 0,
       "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
