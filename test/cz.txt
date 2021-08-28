@@ -36,7 +36,7 @@
       "key": "afys_spider",
       "name": "爬虫源1",
       "type": 2,
-      "api": "f3wvt",
+      "api": "ix:3wvt",
       "playUrl": ""
     },
     {
