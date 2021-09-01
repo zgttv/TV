@@ -77,10 +77,10 @@
       ]
     },
     {
-      "key": "afys_spider",
-      "name": "阿房影视",
-      "type": 2,
-      "api": "Scrawl1",
+      "key": "优酷",
+      "name": "优酷",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/youku.php",
       "playUrl": ""
     },
     {
