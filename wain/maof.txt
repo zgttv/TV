@@ -8,7 +8,6 @@
       "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
       "playUrl": "",
        "categories": [
-    "最新"，   
     "综艺",
     "动漫",
     "动作片",
