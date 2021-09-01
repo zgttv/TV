@@ -83,6 +83,13 @@
       "api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
       "playUrl": ""
     },
+     {
+      "key": "百度资源",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": ""
+    },
     {
       "key": "1717主流爬",
       "name": "1717主流爬（4.4u）",
