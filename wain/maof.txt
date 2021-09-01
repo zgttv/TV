@@ -84,8 +84,8 @@
       "playUrl": ""
     },
     {
-      "key": "1711主流爬",
-      "name": "1711主流爬（4.4u）",
+      "key": "1717主流爬",
+      "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": "https://vip.bljiex.com/?v="
