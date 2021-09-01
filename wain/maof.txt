@@ -86,7 +86,7 @@
     {
       "key": "1711",
       "name": "1711",
-      "type": 2,
+      "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": ""
     },
