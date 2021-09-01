@@ -32,12 +32,12 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
-    {
-      "key": "afys_spider",
-      "name": "爬虫源1",
-      "type": 2,
-      "api": "ix:3wvt",
-      "playUrl": ""
+  {
+      "key": "1717主流爬",
+      "name": "1717主流爬（4.4u）",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/api.php",
+      "playUrl": "https://www.h8jx.com/jiexi.php?url="
     },
     {
       "key": "jpys_spider",
