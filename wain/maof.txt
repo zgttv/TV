@@ -1,6 +1,13 @@
 
 {
   "sites": [
+       {
+      "key": "极品影视",
+      "name": "极品影视",
+      "type": 1,
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
     {
       "key": "M3U8.TV",
       "name": "M3U8.TV",
@@ -206,13 +213,6 @@
       "name": "白熊影视",
       "type": 0,
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
-      "key": "人人影视",
-      "name": "人人影视",
-      "type": 1,
-      "api": "http://www.rrzyw.cc/api.php/provide/vod",
       "playUrl": ""
     },
       {
