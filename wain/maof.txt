@@ -88,7 +88,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://jx.m3u8.tv/jiexi/?url="
+      "playUrl": "https://www.1717yun.com/jx/ty.php?url="
     },
     {
       "key": "神马影院",
