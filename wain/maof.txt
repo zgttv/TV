@@ -97,14 +97,6 @@
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": "https://1.api.80tvs.cn/?url="
     },
-
-     {
-      "key": "1717主流爬test",
-      "name": "1717主流爬（测试）",
-      "type": 0,
-      "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://vip.bljiex.com/?v="
-    },
     {
       "key": "神马影院",
       "name": "神马影院",
