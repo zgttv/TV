@@ -211,9 +211,9 @@
     {
       "key": "人人影视",
       "name": "人人影视",
-      "type": 0,
-      "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
-      "playUrl": "https://jx.jiubojx.com/vip.php?url="
+      "type": 1,
+      "api": "http://www.rrzyw.cc/api.php/provide/vod",
+      "playUrl": ""
     },
       {
       "key": "穿梭资源",
