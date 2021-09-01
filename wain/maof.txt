@@ -277,6 +277,13 @@
         "福利"
       ]
     },
+        {
+      "key": "影派资源",
+      "name": "影派资源",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
     {
       "key": "电牛资源",
       "name": "电牛资源",
