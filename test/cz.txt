@@ -37,7 +37,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://www.h8jx.com/jiexi.php?url="
+      "playUrl": "https://jx.7kjx.com/?url="
     },
     {
       "key": "jpys_spider",
