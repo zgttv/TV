@@ -29,6 +29,13 @@
       "api": "http://api.000zy.com/provide/vod/at/xml/",
       "playUrl": "" 
     },
+        {
+      "key": "1717主流爬",
+      "name": "1717主流爬（4.4u）",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/api.php",
+      "playUrl": "https://api.yueliangjx.com/?url="
+    },
     {
       "key": "M3U8.TV",
       "name": "M3U8.TV",
@@ -117,13 +124,6 @@
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "playUrl": ""
-    },
-    {
-      "key": "1717主流爬",
-      "name": "1717主流爬（4.4u）",
-      "type": 0,
-      "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://api.yueliangjx.com/?url="
     },
     {
       "key": "北斗资源",
