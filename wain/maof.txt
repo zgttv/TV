@@ -103,7 +103,7 @@
       "name": "1717主流爬（测试）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://z1.m1907.cn/?jx="
+      "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
     {
       "key": "神马影院",
