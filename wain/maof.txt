@@ -91,17 +91,17 @@
       "playUrl": "https://vip.bljiex.com/?v="
     },
     {
-      "key": "mgys_spider",
-      "name": "暮光影视",
-      "type": 2,
-      "api": "Scrawl3",
+      "key": "m神马影院",
+      "name": "神马影院",
+      "type": 0,
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
-      "key": "ysgc_spider",
-      "name": "影视工厂",
-      "type": 2,
-      "api": "Scrawl4",
+      "key": "北斗资源",
+      "name": "北斗资源",
+      "type": 1,
+      "api": "https://v8.bdxzyapi.com/inc/api.php",
       "playUrl": ""
     },
     {
