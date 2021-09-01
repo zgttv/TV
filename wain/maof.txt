@@ -84,10 +84,10 @@
       "playUrl": ""
     },
     {
-      "key": "jpys_spider",
-      "name": "极品影视",
+      "key": "1711",
+      "name": "1711",
       "type": 2,
-      "api": "Scrawl2",
+      "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": ""
     },
     {
