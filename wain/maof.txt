@@ -266,10 +266,10 @@
       ]
     },
     {
-      "key": "明日资源",
-      "name": "明日资源",
+      "key": "电牛资源",
+      "name": "电牛资源",
       "type": 0,
-      "api": "https://watchmi.cc/api.php/provide/vod/at/xml",
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
   ],
