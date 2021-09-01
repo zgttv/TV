@@ -129,6 +129,13 @@
         "蓝光动漫"
       ]
     },
+        {
+      "key": "看看屋",
+      "name": "看看屋",
+      "type": 0,
+      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
     {
       "key": "红牛资源",
       "name": "红牛资源",
