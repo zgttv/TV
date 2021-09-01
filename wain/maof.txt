@@ -95,7 +95,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://jx.parwix.com:4433/player/?url="
+      "playUrl": "https://1.api.80tvs.cn/?url="
     },
     {
       "key": "神马影院",
