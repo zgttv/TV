@@ -88,7 +88,7 @@
       "name": "1711",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": ""
+      "playUrl": "https://vip.bljiex.com/?v="
     },
     {
       "key": "mgys_spider",
