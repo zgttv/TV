@@ -459,11 +459,7 @@
   "parses": [
     {
       "name": "默认",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
+      "url": "https://1.api.80tvs.cn/?url="
     },
     {
       "name": "急速",
