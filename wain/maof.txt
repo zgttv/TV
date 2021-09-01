@@ -101,7 +101,7 @@
       "key": "北斗资源",
       "name": "北斗资源",
       "type": 1,
-      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": ""
     },
     {
