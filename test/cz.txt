@@ -44,7 +44,7 @@
       "name": "1717-乐视",
       "type": 0,
       "api": "http://zy.itono.cn/inc/letv.php",
-      "playUrl": "https://vip.fxw.la//?url="
+      "playUrl": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
       "key": "mgys_spider",
