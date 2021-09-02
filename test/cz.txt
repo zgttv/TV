@@ -44,7 +44,7 @@
       "name": "1717-芒果",
       "type": 0,
       "api": "http://zy.itono.cn/inc/mgtv.php",
-      "playUrl": "https://www.1717yun.com/jx/ty.php?url="
+      "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
     {
       "key": "mgys_spider",
