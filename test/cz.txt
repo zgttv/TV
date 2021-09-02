@@ -33,11 +33,11 @@
       "playUrl": "https://jx.jiubojx.com/vip.php?url="
     },
   {
-      "key": "1717主流爬",
-      "name": "1717主流爬（4.4u）",
+      "key": "1717-腾讯",
+      "name": "1717-腾讯",
       "type": 0,
-      "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://api.yueliangjx.com/?url="
+      "api": "http://zy.itono.cn/inc/qq.php",
+      "playUrl": ""
     },
     {
       "key": "jpys_spider",
