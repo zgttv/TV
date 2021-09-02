@@ -44,7 +44,7 @@
       "name": "1717-芒果",
       "type": 0,
       "api": "http://zy.itono.cn/inc/mgtv.php",
-      "playUrl": "https://1.api.80tvs.cn/?url="
+      "playUrl": "https://www.h8jx.com/jiexi.php?url="
     },
     {
       "key": "mgys_spider",
