@@ -200,6 +200,13 @@
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+             {
+      "key": "恐怖鸭资源",
+      "name": "恐怖鸭资源",
+      "type": 0,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
         {
       "key": "看看屋",
       "name": "看看屋",
