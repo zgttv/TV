@@ -95,7 +95,28 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://api.yueliangjx.com/?url="
+      "playUrl": "https://api.yueliangjx.com/?url=",
+ "categories": [
+     "综艺",
+     "动漫",
+     "动作片",
+     "喜剧片",
+     "爱情片",
+     "科幻片",
+     "恐怖片",
+     "剧情片",
+     "战争片",
+     "国产剧",
+     "港台剧",
+     "日韩剧",
+     "欧美剧",
+     "魔幻片",
+     "悬疑片",
+     "综合片",
+     "犯罪片",
+     "其他剧",
+     "动画片"
+ ]
     },
     {
       "key": "M3U8.TV",
