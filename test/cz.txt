@@ -39,12 +39,12 @@
       "api": "http://zy.itono.cn/inc/qq.php",
       "playUrl": "https://1.api.80tvs.cn/?url="
     },
-    {
-      "key": "jpys_spider",
-      "name": "爬虫源2",
-      "type": 2,
-      "api": "Scrawl2",
-      "playUrl": ""
+   {
+      "key": "1717-芒果",
+      "name": "1717-芒果",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/mgtv.php",
+      "playUrl": "https://1.api.80tvs.cn/?url="
     },
     {
       "key": "mgys_spider",
