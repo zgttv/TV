@@ -37,7 +37,7 @@
       "name": "1717-腾讯",
       "type": 0,
       "api": "http://zy.itono.cn/inc/qq.php",
-      "playUrl": ""
+      "playUrl": "https://1.api.80tvs.cn/?url="
     },
     {
       "key": "jpys_spider",
