@@ -87,7 +87,7 @@ x116,http://vip.qji.me/?url=
 91,https://www.91jxs.com/jiexi/?url=
 结束
 直播：
-【分类头】央视频道-卫视频道-地方频道-少儿频道-IHOT频道-体育频道-埋堆堆频道-电影频道-港澳频道-台灣频道-其他频道【分类尾】
+【分类头】央视频道-卫视频道-地方频道-少儿频道-IHOT频道-体育频道-埋堆堆频道-Sitv频道-电影频道-港澳频道-台灣频道-其他频道【分类尾】
 【央视频道头】
 CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1 8M,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
@@ -503,6 +503,19 @@ CNTV完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
 埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
 埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 【埋堆堆频道尾】
+【Sitv频道头】
+SiTV新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+SiTV动漫秀场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+SiTV游戏风云,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+SiTV欢笑剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+SiTV生活时尚,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+SiTV全纪实,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV都市剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV幸福彩,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+【Sitv频道尾】
 【电影频道头】
 黑莓电影 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影蓝光,http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
