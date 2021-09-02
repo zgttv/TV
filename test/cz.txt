@@ -40,11 +40,11 @@
       "playUrl": "https://1.api.80tvs.cn/?url="
     },
    {
-      "key": "1717-芒果",
-      "name": "1717-芒果",
+      "key": "1717-乐视",
+      "name": "1717-乐视",
       "type": 0,
-      "api": "http://zy.itono.cn/inc/mgtv.php",
-      "playUrl": "https://jx.618g.com/?url="
+      "api": "http://zy.itono.cn/inc/letv.php",
+      "playUrl": "https://1.api.80tvs.cn/?url="
     },
     {
       "key": "mgys_spider",
