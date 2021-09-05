@@ -56,8 +56,8 @@
          {
       "key": "免费影院",
       "name": "免费影院",
-      "type": 0,
-      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "http://www.ruiuri.com/api.php/provide/vod/?ac=list",
       "playUrl": ""
     },
           {
