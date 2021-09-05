@@ -48,9 +48,9 @@
     },
     {
       "key": "mgys_spider",
-      "name": "爬虫源1",
-      "type": 2,
-      "api": "Scrawl1",
+      "name": "测试1",
+      "type": 1,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/?ac=list",
       "playUrl": ""
     },
     {
