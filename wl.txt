@@ -42,7 +42,7 @@ U猫资源,http://umao.ml/api.php/provide/vod/at/xml,解析
 腾讯,http://zy.itono.cn/inc/qq.php,解析
 爱奇艺,http://zy.itono.cn/inc/qiyi.php,解析
 搜狐,http://zy.itono.cn/inc/sohu.php,解析
-PPTV,http://zy.itono.cn/inc/pptv.php，解析
+PPTV,http://zy.itono.cn/inc/pptv.php,解析
 咪咕,http://zy.itono.cn/inc/migu.php,解析
 哔哩哔哩,http://zy.itono.cn/inc/bilibili.php,解析
 结束
