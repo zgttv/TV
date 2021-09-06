@@ -272,9 +272,9 @@
     {
       "key": "豆瓣云",
       "name": "豆瓣云",
-      "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jsap.attakids.com/?url=",
+      "type": 1,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
       "categories": [
         "综艺",
         "动作片",
