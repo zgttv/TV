@@ -567,13 +567,13 @@
     }
   ],
   "parses": [
-          {
+    {
+      "name": "默认",
+      "url": "https://1.api.80tvs.cn/?url="
+    },
+     {
       "name": "月亮",
       "url": "https://vip.jianjians.com/?url="
-    },
-    {
-      "name": "80TV",
-      "url": "https://1.api.80tvs.cn/?url="
     },
     {
       "name": "久看解析",
