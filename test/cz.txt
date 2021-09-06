@@ -122,7 +122,7 @@
       "key": "M3U8.TV",
       "name": "M3U8.TV",
       "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
       "playUrl": "",
       "categories": [
         "国产剧",
