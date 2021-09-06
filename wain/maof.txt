@@ -567,8 +567,12 @@
     }
   ],
   "parses": [
+          {
+      "name": "月亮",
+      "url": "https://vip.jianjians.com/?url="
+    },
     {
-      "name": "默认",
+      "name": "80TV",
       "url": "https://1.api.80tvs.cn/?url="
     },
     {
@@ -626,10 +630,6 @@
     {
       "name": "星驰",
       "url": "https://vip.cjys.top/?url="
-    },
-    {
-      "name": "月亮",
-      "url": "https://api.yueliangjx.com/?url="
     },
     {
       "name": "盘古云多路",
