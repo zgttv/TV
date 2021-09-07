@@ -319,11 +319,19 @@
 		"playUrl": "",
 		"categories": []
 	},
+    	{
+		"key": "真不卡",
+		"name": "真不卡",
+		"type": 0,
+		"api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
 	{
-		"key": "迅雷下载资源",
-		"name": "迅雷下载资源",
-		"type": 1,
-		"api": "http://xunlei.fan/api.php/provide/vod",
+		"key": "污妖动漫",
+		"name": "污妖动漫",
+		"type": 0,
+		"api": "https://www.wyydm.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
