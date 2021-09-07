@@ -105,13 +105,6 @@
       "playUrl": "https://vip.jianjians.com/?url="
     },
         {
-      "key": "人人资源",
-      "name": "人人资源",
-      "type": 0,
-      "api": "https://www.rrzyw.cc/api.php/provide/vod/?ac=list",
-      "playUrl": ""
-    },
-        {
       "key": "1717主流爬",
       "name": "1717主流爬（4.4u）",
       "type": 0,
