@@ -327,35 +327,27 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "飞鱼影视",
-		"name": "飞鱼影视",
+	{
+		"key": "无尽资源",
+		"name": "无尽资源",
 		"type": 0,
-		"api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
+		"api": "https://api.wujinapi.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
 	{
-		"key": "核桃影视",
-		"name": "核桃影视",
+		"key": "7K资源",
+		"name": "7K资源",
 		"type": 0,
-		"api": "http://app.hetaoys.vip/api.php/provide/vod/at/xml",
+		"api": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
 	{
-		"key": "77影视",
-		"name": "77影视",
+		"key": "熊猫视频",
+		"name": "熊猫视频",
 		"type": 0,
-		"api": "https://www.77diany.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "77资源",
-		"name": "77资源",
-		"type": 0,
-		"api": "https://www.77zy.vip/inc/m3u8.php",
+		"api": "https://www.xiongmaosp.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
