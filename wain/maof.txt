@@ -319,27 +319,11 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "爱看啦",
-		"name": "爱看啦",
-		"type": 1,
-		"api": "http://v.aik.la/api.php/provide/vod",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "人人资源",
-		"name": "人人资源",
-		"type": 1,
-		"api": "https://www.rrzyw.cc/api.php/provide/vod",
-		"playUrl": "",
-		"categories": []
-	},
 	{
 		"key": "迅雷下载资源",
 		"name": "迅雷下载资源",
-		"type": 0,
-		"api": "http://xunlei.fan/api.php/provide/vod/at/xml",
+		"type": 1,
+		"api": "http://xunlei.fan/api.php/provide/vod",
 		"playUrl": "",
 		"categories": []
 	},
