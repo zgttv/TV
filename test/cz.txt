@@ -91,6 +91,13 @@
       "playUrl": ""
     },
             {
+      "key": "2A资源",
+      "name": "2A资源",
+      "type": 1,
+      "api": "https://zy.zcocc.com/api.php/provide/vod/",
+      "playUrl": ""
+    },
+            {
       "key": "星辰资源",
       "name": "星辰资源",
       "type": 1,
