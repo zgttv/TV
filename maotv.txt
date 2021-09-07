@@ -268,10 +268,10 @@
       ]
     },
     {
-      "key": "阿里影视网",
-      "name": "阿里影视网",
+      "key": "片库网",
+      "name": "片库网",
       "type": 0,
-      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
+      "api": "https://pianku.wang/api.php/provide/vod/at/xml",
       "playUrl": "",
       "categories": [
         "综艺",
@@ -328,6 +328,13 @@
       "name": "多多资源",
       "type": 0,
       "api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "阿里影视网",
+      "name": "阿里影视网",
+      "type": 0,
+      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
