@@ -278,6 +278,14 @@
 		"playUrl": "",
 		"categories": []
 	},
+    	{
+		"key": "淘片资源",
+		"name": "淘片资源",
+		"type": 0,
+		"api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+		"playUrl": "",
+		"categories": []
+	},
     {
       "key": "百度采集",
       "name": "百度采集",
