@@ -328,10 +328,10 @@
 		"categories": []
 	},
 	{
-		"key": "墨鱼影视",
-		"name": "墨鱼影视",
+		"key": "测试",
+		"name": "测试",
 		"type": 0,
-		"api": "http://www.moyuyingshi.com/api.php/provide/vod/at/xml",
+		"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
