@@ -351,10 +351,45 @@
       "playUrl": ""
     },
     {
-      "key": "多多资源",
-      "name": "多多资源",
+      "key": "BL视频",
+      "name": "BL视频",
       "type": 0,
-      "api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
+      "api": "https://bljiex.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "泡泡影视",
+      "name": "泡泡影视",
+      "type": 0,
+      "api": "http://www.chinaboshan.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "优全影视",
+      "name": "优全影视",
+      "type": 0,
+      "api": "https://xmyun.xyz/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "爱看啦",
+      "name": "爱看啦",
+      "type": 0,
+      "api": "http://v.aik.la/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "360资源",
+      "name": "360资源",
+      "type": 0,
+      "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "核桃影视",
+      "name": "核桃影视",
+      "type": 0,
+      "api": "http://app.hetaoys.vip/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -674,6 +709,10 @@
     {
       "name": "新月亮",
       "url": "https://vip.jianjians.com/?url="
+    },
+    {
+      "name": "江湖云",
+      "url": "https://api.jhdyw.vip/?url="
     },
     {
       "name": "Parwix解析",
