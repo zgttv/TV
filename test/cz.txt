@@ -108,7 +108,7 @@
       "key": "人人资源",
       "name": "人人资源",
       "type": 0,
-      "api": "https://www.rrzyw.cc/api.php/provide/vod",
+      "api": "https://www.rrzyw.cc/api.php/provide/vod/?ac=list",
       "playUrl": ""
     },
         {
