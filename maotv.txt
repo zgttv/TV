@@ -317,6 +317,13 @@
       "playUrl": ""
     },
     {
+      "key": "任我云",
+      "name": "任我云",
+      "type": 0,
+      "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "多多资源",
       "name": "多多资源",
       "type": 0,
