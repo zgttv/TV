@@ -138,6 +138,14 @@
 		"playUrl": "",
 		"categories": []
 	},
+    	{
+		"key": "孤单影院",
+		"name": "孤单影院",
+		"type": 0,
+		"api": "https://www.hanmiys.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
         {
       "key": "神马影院",
       "name": "神马影院",
