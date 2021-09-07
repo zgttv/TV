@@ -93,8 +93,8 @@
             {
       "key": "星辰资源",
       "name": "星辰资源",
-      "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
       "playUrl": ""
     },
         {
