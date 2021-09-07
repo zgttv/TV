@@ -3,7 +3,7 @@
   "sites": [
      {
       "key": "afys_spider",
-      "name": "阿房影视",
+      "name": "阿房影视(原内置)",
       "type": 2,
       "api": "7gxke5P9eFZoVV",
       "playUrl": "",
@@ -233,32 +233,11 @@
       "playUrl": ""
     },
     {
-      "key": "播放呀app",
-      "name": "播放呀app",
-      "type": 0,
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "天堂影视",
-      "name": "天堂影视",
-      "type": 0,
-      "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.parwix.com:4433/player/?url="
-    },
-    {
       "key": "百度采集",
       "name": "百度采集",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
       "playUrl": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "key": "陈家影视",
-      "name": "陈家影视",
-      "type": 1,
-      "api": "https://www.cjt521.com/api.php/provide/vod/",
-      "playUrl": "https://jiexi.cjt521.com/?url="
     },
                 {
       "key": "TVB资源",
