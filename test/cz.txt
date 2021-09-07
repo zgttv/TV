@@ -146,6 +146,13 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
       "playUrl": ""
     },
+                {
+      "key": "TVB资源",
+      "name": "TVB资源",
+      "type": 1,
+      "api": "http://www.tvyb02.com/api.php/provide/vod",
+      "playUrl": ""
+    },
              {
       "key": "免费影院",
       "name": "免费影院",
