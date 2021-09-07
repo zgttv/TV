@@ -16,7 +16,6 @@
       "type": 2,
       "api": "xZk2ejNzP8Gape",
       "playUrl": "",
-      "searchable": 0,
       "filterable": 1
     },
     {
