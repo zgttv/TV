@@ -102,7 +102,7 @@
 		"name": "片库",
 		"type": 0,
 		"api": "https://pianku.wang/api.php/provide/vod/at/xml",
-		"playUrl": "",
+		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	},
         {
