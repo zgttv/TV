@@ -671,6 +671,10 @@
       "name": "月亮",
       "url": "https://vip.jianjians.com/?url="
     },
+         {
+      "name": "2Ajx",
+      "url": "https://www.2ajx.com/vip.php?url="
+    },
     {
       "name": "久看解析",
       "url": "https://9kjx.com/?url="
