@@ -588,14 +588,6 @@
 		"categories": []
 	},
 	{
-		"key": "乐鱼资源",
-		"name": "乐鱼资源18x",
-		"type": 0,
-		"api": "https://www.leyuzyapi.com/inc/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "水蜜桃",
 		"name": "水蜜桃18x",
 		"type": 0,
@@ -628,14 +620,6 @@
 		"categories": []
 	},
 	{
-		"key": "CK资源",
-		"name": "CK资源18x",
-		"type": 0,
-		"api": "https://ckzy.me/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "BB资源",
 		"name": "BB资源18x",
 		"type": 0,
@@ -648,14 +632,6 @@
 		"name": "老鸭资源18x",
 		"type": 0,
 		"api": "http://laoyazy.vip/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "茄子资源",
-		"name": "茄子资源18x",
-		"type": 0,
-		"api": "http://www.qiezizy8.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -748,14 +724,6 @@
 		"categories": []
 	},
 	{
-		"key": "撸死你资源",
-		"name": "撸死你资源18x",
-		"type": 0,
-		"api": "http://lsnzxcj.com/inc/sapi.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "富二代资源",
 		"name": "富二代资源18x",
 		"type": 0,
@@ -772,34 +740,10 @@
 		"categories": []
 	},
 	{
-		"key": "久草资源",
-		"name": "久草资源18x",
-		"type": 0,
-		"api": "http://jcspcj8.com/sapi",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "利来资源",
-		"name": "利来资源18x",
-		"type": 0,
-		"api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "佳丽资源",
 		"name": "佳丽资源18x",
 		"type": 0,
 		"api": "https://jialiapi.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "快活资源",
-		"name": "快活资源18x",
-		"type": 0,
-		"api": "https://www.khzywapi.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
