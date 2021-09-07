@@ -194,7 +194,7 @@
       "name": "1905资源",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": "https://vip.jianjians.com/?url="
+      "playUrl": "http://vip.bljiex.com/?v="
     },
         {
       "key": "1717主流爬",
