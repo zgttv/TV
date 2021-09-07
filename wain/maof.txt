@@ -254,19 +254,19 @@
 		"playUrl": "",
 		"categories": []
 	},
-	{
-		"key": "任我云",
-		"name": "任我云",
-		"type": 0,
-		"api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
     	{
 		"key": "乐喵资源",
 		"name": "乐喵资源",
 		"type": 0,
 		"api": "https://98hyk.cn/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+    	{
+		"key": "白嫖联盟",
+		"name": "白嫖联盟",
+		"type": 0,
+		"api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
