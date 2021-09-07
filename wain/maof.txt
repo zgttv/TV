@@ -99,7 +99,7 @@
     },
     	{
 		"key": "片库",
-		"name": "片库",
+		"name": "片库资源",
 		"type": 0,
 		"api": "https://pianku.wang/api.php/provide/vod/at/xml",
 		"playUrl": "https://api.jhdyw.vip/?url=",
@@ -209,7 +209,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "https://123.1dior.cn/?url=",
+      "playUrl": "",
  "categories": [
      "综艺",
      "动漫",
@@ -246,6 +246,14 @@
       "api": "https://09tv.top/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
+    	{
+		"key": "7K(虾米)资源",
+		"name": "7K(虾米)资源",
+		"type": 0,
+		"api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
     {
       "key": "百度采集",
       "name": "百度采集",
