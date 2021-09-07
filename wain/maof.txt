@@ -254,6 +254,14 @@
 		"playUrl": "",
 		"categories": []
 	},
+    	{
+		"key": "麒麟资源",
+		"name": "麒麟资源",
+		"type": 1,
+		"api": "http://www.qilinzyz.com/api.php/provide/vod/?ac=list",
+		"playUrl": "",
+		"categories": []
+	},
     {
       "key": "百度采集",
       "name": "百度采集",
