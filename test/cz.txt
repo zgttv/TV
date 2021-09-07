@@ -151,7 +151,7 @@
       "name": "TVB资源",
       "type": 1,
       "api": "http://www.tvyb02.com/api.php/provide/vod",
-      "playUrl": ""
+      "playUrl": "https://vip.jianjians.com/?url="
     },
              {
       "key": "免费影院",
