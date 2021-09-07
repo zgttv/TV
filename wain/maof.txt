@@ -194,7 +194,7 @@
       "name": "1905资源",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": "https://vip.jianjians.com/?url="
+      "playUrl": "http://vip.bljiex.com/?v="
     },
         {
       "key": "1717主流爬",
@@ -670,6 +670,14 @@
      {
       "name": "月亮",
       "url": "https://vip.jianjians.com/?url="
+    },
+         {
+      "name": "2Ajx",
+      "url": "https://www.2ajx.com/vip.php?url="
+    },
+             {
+      "name": "BL解析",
+      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "久看解析",
