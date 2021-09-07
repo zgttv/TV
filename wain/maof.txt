@@ -139,14 +139,6 @@
 		"categories": []
 	},
 	{
-		"key": "九九美剧",
-		"name": "九九美剧",
-		"type": 0,
-		"api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "BL视频",
 		"name": "BL视频",
 		"type": 0,
@@ -154,11 +146,19 @@
 		"playUrl": "",
 		"categories": []
 	},
-	{
-		"key": "泡泡影视",
-		"name": "泡泡影视",
+    	{
+		"key": "优全影视",
+		"name": "优全影视",
 		"type": 0,
-		"api": "http://www.chinaboshan.com/api.php/provide/vod/at/xml",
+		"api": "https://xmyun.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "畅视影视",
+		"name": "畅视影视",
+		"type": 0,
+		"api": "http://app.reboju.net/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
