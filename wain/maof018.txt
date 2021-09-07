@@ -562,7 +562,7 @@
       "type": 0,
       "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-    }，
+    },
     {
 		"key": "77资源",
 		"name": "77资源18x",
