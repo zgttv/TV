@@ -320,27 +320,42 @@
 		"categories": []
 	},
 	{
-		"key": "阿里影视网",
-		"name": "阿里影视网",
-		"type": 0,
-		"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-    	{
-		"key": "淘影",
-		"name": "淘影",
-		"type": 0,
-		"api": "http://tv.4kvod.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": [],
-         "filterable": 1
-	},
-	{
 		"key": "速影",
 		"name": "速影",
 		"type": 0,
 		"api": "https://速影128.xyz/inc/api.php",
+		"playUrl": "",
+		"categories": []
+	},
+    	{
+		"key": "飞鱼影视",
+		"name": "飞鱼影视",
+		"type": 0,
+		"api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "核桃影视",
+		"name": "核桃影视",
+		"type": 0,
+		"api": "http://app.hetaoys.vip/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "77影视",
+		"name": "77影视",
+		"type": 0,
+		"api": "https://www.77diany.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "77资源",
+		"name": "77资源",
+		"type": 0,
+		"api": "https://www.77zy.vip/inc/m3u8.php",
 		"playUrl": "",
 		"categories": []
 	},
