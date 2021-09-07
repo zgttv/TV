@@ -320,18 +320,18 @@
 		"categories": []
 	},
 	{
-		"key": "侦探APP",
-		"name": "侦探APP",
+		"key": "奇乐(优剧)资源",
+		"name": "奇乐(优剧)资源",
 		"type": 0,
-		"api": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
+		"api": "https://zy.ujuba.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
 	{
-		"key": "追剧吧APP",
-		"name": "追剧吧APP",
+		"key": "最新(云播)资源",
+		"name": "最新(云播)资源",
 		"type": 0,
-		"api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml",
+		"api": "https://api.yunboys.cn/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
