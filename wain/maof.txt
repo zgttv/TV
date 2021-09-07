@@ -333,7 +333,7 @@
 		"type": 0,
 		"api": "http://tv.4kvod.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
-		"categories": []
+		"categories": [],
          "filterable": 1
 	},
 	{
