@@ -319,19 +319,19 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "真不卡",
-		"name": "真不卡",
+	{
+		"key": "侦探APP",
+		"name": "侦探APP",
 		"type": 0,
-		"api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+		"api": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
 	{
-		"key": "污妖动漫",
-		"name": "污妖动漫",
+		"key": "追剧吧APP",
+		"name": "追剧吧APP",
 		"type": 0,
-		"api": "https://www.wyydm.com/api.php/provide/vod/at/xml",
+		"api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
