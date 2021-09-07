@@ -175,6 +175,13 @@
       "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
       "playUrl": ""
     },
+                    {
+      "key": "360资源",
+      "name": "360资源",
+      "type": 0,
+      "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
+      "playUrl": "https://www.2ajx.com/vip.php?url="
+    },
             {
       "key": "星辰资源",
       "name": "星辰资源",
@@ -670,12 +677,8 @@
     }
   ],
   "parses": [
-    {
-      "name": "默认",
-        "url": "https://api.jhdyw.vip/?url="
-    },
         {
-      "name": "80tv",
+      "name": "默认",
       "url": "https://1.api.80tvs.cn/?url="
     },
      {
@@ -685,6 +688,10 @@
     {
       "name": "久看解析",
       "url": "https://9kjx.com/?url="
+    },
+        {
+      "name": "JHD",
+        "url": "https://api.jhdyw.vip/?url="
     },
     {
       "name": "星空(ok)",
