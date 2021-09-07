@@ -113,19 +113,44 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "多多资源",
-		"name": "多多资源",
-		"type": 0,
-		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
+
 	{
 		"key": "喵派对蓝光",
 		"name": "喵派对蓝光",
 		"type": 0,
 		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+    	{
+		"key": "爱看",
+		"name": "爱看",
+		"type": 0,
+		"api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "欧乐影院",
+		"name": "欧乐影院",
+		"type": 0,
+		"api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "剧好看",
+		"name": "剧好看",
+		"type": 0,
+		"api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "U猫m3u8",
+		"name": "U猫m3u8",
+		"type": 0,
+		"api": "http://umao.ml/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
