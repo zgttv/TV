@@ -113,6 +113,22 @@
 		"playUrl": "",
 		"categories": []
 	},
+    	{
+		"key": "多多资源",
+		"name": "多多资源",
+		"type": 0,
+		"api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "喵派对蓝光",
+		"name": "喵派对蓝光",
+		"type": 0,
+		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
         {
       "key": "神马影院",
       "name": "神马影院",
