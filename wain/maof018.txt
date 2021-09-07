@@ -324,13 +324,6 @@
       "api": "http://www.605zy.co/inc/605m3u8.php",
       "playUrl": ""
     },
-             {
-      "key": "恐怖鸭资源",
-      "name": "恐怖鸭资源",
-      "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
         {
       "key": "看看屋",
       "name": "看看屋",
@@ -343,13 +336,6 @@
       "name": "红牛资源",
       "type": 1,
       "api": "https://www.hongniuzy.com/inc/apijson_vodhnm3u8.php",
-      "playUrl": ""
-    },
-     {
-      "key": "百度资源",
-      "name": "百度资源",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "playUrl": ""
     },
     {
