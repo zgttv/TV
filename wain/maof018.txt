@@ -675,6 +675,10 @@
       "name": "2Ajx",
       "url": "https://www.2ajx.com/vip.php?url="
     },
+             {
+      "name": "BL解析",
+      "url": "https://vip.bljiex.com/?v="
+    },
     {
       "name": "久看解析",
       "url": "https://9kjx.com/?url="
