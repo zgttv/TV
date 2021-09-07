@@ -201,7 +201,7 @@
       "name": "1717主流爬（4.4u）",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "",
+      "playUrl": "https://www.2ajx.com/vip.php?url=",
  "categories": [
      "综艺",
      "动漫",
