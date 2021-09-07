@@ -327,30 +327,7 @@
 		"playUrl": "",
 		"categories": []
 	},
-	{
-		"key": "无尽资源",
-		"name": "无尽资源",
-		"type": 1,
-		"api": "https://api.wujinapi.com/api.php/provide/vod",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "7K资源",
-		"name": "7K资源",
-		"type": 0,
-		"api": "https://zy.7kjx.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "熊猫视频",
-		"name": "熊猫视频",
-		"type": 0,
-		"api": "https://www.xiongmaosp.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
+
 	{
 		"key": "无极影院",
 		"name": "无极影院",
