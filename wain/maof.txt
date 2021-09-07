@@ -327,7 +327,14 @@
 		"playUrl": "",
 		"categories": []
 	},
-
+	{
+		"key": "墨鱼影视",
+		"name": "墨鱼影视",
+		"type": 0,
+		"api": "http://www.moyuyingshi.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
 	{
 		"key": "无极影院",
 		"name": "无极影院",
