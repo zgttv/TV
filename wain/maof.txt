@@ -263,6 +263,14 @@
 		"categories": []
 	},
     	{
+		"key": "乐奇异",
+		"name": "乐奇异",
+		"type": 0,
+		"api": "https://www.lqiyi.co/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+    	{
 		"key": "白嫖联盟",
 		"name": "白嫖联盟",
 		"type": 0,
