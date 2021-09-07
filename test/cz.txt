@@ -125,13 +125,6 @@
     "动画片"
  ]
     },
-        {
-      "key": "293影院",
-      "name": "293影院",
-      "type": 0,
-      "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.jhdyw.vip/?url="
-    },
           {
       "key": "0号资源",
       "name": "0号资源",
@@ -666,6 +659,10 @@
   "parses": [
     {
       "name": "默认",
+        "url": "https://api.jhdyw.vip/?url="
+    },
+        {
+      "name": "80tv",
       "url": "https://1.api.80tvs.cn/?url="
     },
      {
