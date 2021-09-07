@@ -549,6 +549,15 @@
         "福利"
       ]
     },
+    	{
+		"key": "博天堂",
+		"name": "博天堂18x",
+		"type": 0,
+		"api": "http://bttcj.com/inc/sapi.php",
+		"playUrl": "",
+        "searchable": 0,
+		"categories": []
+	},
         {
       "key": "影派资源",
       "name": "影派资源",
