@@ -146,19 +146,11 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "优全影视",
-		"name": "优全影视",
-		"type": 0,
-		"api": "https://xmyun.xyz/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
 	{
 		"key": "畅视影视",
 		"name": "畅视影视",
-		"type": 0,
-		"api": "http://app.reboju.net/api.php/provide/vod/at/xml",
+		"type": 1,
+		"api": "http://app.reboju.net/api.php/provide/vod",
 		"playUrl": "",
 		"categories": []
 	},
