@@ -334,6 +334,7 @@
 		"api": "http://tv.4kvod.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
+         "filterable": 1
 	},
 	{
 		"key": "速影",
