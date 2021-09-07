@@ -338,10 +338,10 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
-      "key": "陈家影视",
-      "name": "陈家影视",
+      "key": "白熊影院",
+      "name": "白熊影院",
       "type": 1,
-      "api": "https://www.cjt521.com/api.php/provide/vod/",
+      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": "https://jiexi.cjt521.com/?url="
     },
     {
