@@ -470,6 +470,13 @@
       "playUrl": ""
     },
     {
+      "key": "豆瓣云",
+      "name": "豆瓣云",
+      "type": 0,
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "605资源",
       "name": "605资源",
       "type": 0,
