@@ -120,6 +120,30 @@
 		"playUrl": "",
 		"categories": []
 	},
+         {
+      "key": "苗点蓝光",
+      "name": "苗点蓝光",
+      "type": 1,
+      "api": "https://www.neenl.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jiexi.msdv.cn/jiemi/?url=",
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧"
+      ]
+    },
         	{
 		"key": "淘片优质直解",
 		"name": "淘片优质直解",
