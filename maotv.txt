@@ -550,7 +550,7 @@
       "name": "真不卡",
       "type": 0,
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v="
+      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
       "key": "孤单影院",
