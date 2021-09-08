@@ -99,8 +99,8 @@
     	{
 		"key": "片库",
 		"name": "片库资源",
-		"type": 0,
-		"api": "https://pianku.wang/api.php/provide/vod/at/xml",
+		"type": 1,
+		"api": "https://pianku.wang/api.php/provide/vod",
 		"playUrl": "https://api.jhdyw.vip/?url=",
 		"categories": []
 	},
