@@ -407,6 +407,13 @@
       "playUrl": ""
     },
     {
+      "key": "影派资源",
+      "name": "影派资源",
+      "type": 0,
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "360资源",
       "name": "360资源",
       "type": 0,
