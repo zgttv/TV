@@ -303,14 +303,6 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "白嫖联盟",
-		"name": "白嫖联盟",
-		"type": 0,
-		"api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
 	{
 		"key": "私人地址（随时失效）",
 		"name": "私人地址（随时失效）",
