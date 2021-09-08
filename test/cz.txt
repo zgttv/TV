@@ -238,13 +238,6 @@
       "playUrl": ""
     },
         {
-      "key": "1905资源",
-      "name": "1905资源",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": ""
-    },
-        {
       "key": "1717主流爬",
       "name": "1717主流爬（4.4u）",
       "type": 0,
