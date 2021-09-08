@@ -351,6 +351,13 @@
       "playUrl": ""
     },
     {
+      "key": "yunboys",
+      "name": "yunboys",
+      "type": 0,
+      "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "BL视频",
       "name": "BL视频",
       "type": 0,
