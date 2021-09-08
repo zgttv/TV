@@ -772,8 +772,12 @@
     }
   ],
   "parses": [
-              {
+          {
       "name": "默认",
+      "url": "https://jx.quanmingjiexi.com/?url="
+    },
+              {
+      "name": "JHD",
         "url": "https://api.jhdyw.vip/?url="
     },
         {
@@ -803,10 +807,6 @@
     {
       "name": "虾米(sohu)",
       "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "全民解析",
-      "url": "https://jx.quanmingjiexi.com/?url="
     },
     {
       "name": "parwix解析",
