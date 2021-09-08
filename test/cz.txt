@@ -120,14 +120,6 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "卧龙资源",
-		"name": "卧龙资源",
-		"type": 0,
-		"api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
         	{
 		"key": "淘片优质直解",
 		"name": "淘片优质直解",
