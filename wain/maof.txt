@@ -610,9 +610,9 @@
       ]
     },
       {
-      "group": "港澳台",
-      "channels": [
-        {
+            "group": "港澳台",
+            "channels": [
+                {
                     "name": "凤凰卫视",
                     "urls": [
                         "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8"
@@ -625,8 +625,6 @@
                         "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
                     ]
                 },
-      ]
-    },
     {
       "group": "央视",
       "channels": [
