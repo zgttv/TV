@@ -792,21 +792,9 @@
           ]
         },
         {
-          "name": "劲爆体育",
+          "name": "私人地址",
           "urls": [
-            "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "足球频道",
-          "urls": [
-            "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
-          ]
-        },
-        {
-          "name": "广东体育",
-          "urls": [
-            "http://149.129.100.78/guangdong.php?id=47"
+            "http://149.129.100.78/guangdong.php?id=473"
           ]
         }
       ]
