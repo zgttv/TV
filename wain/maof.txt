@@ -791,6 +791,18 @@
             "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
           ]
         },
+          {
+          "name": "天映经典",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"
+          ]
+        },
+         {
+          "name": "TVB星河",
+          "urls": [
+            "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"
+          ]
+        },
         {
           "name": "TVB翡翠",
           "urls": [
