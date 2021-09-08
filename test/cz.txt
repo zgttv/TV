@@ -238,15 +238,8 @@
       "playUrl": ""
     },
         {
-      "key": "1905资源",
-      "name": "1905资源",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": "https://jx.quanmingjiexi.com/?url="
-    },
-        {
       "key": "1717主流爬",
-      "name": "1717主流爬（4.4u）",
+      "name": "1717综合资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": "",
@@ -310,30 +303,7 @@
 		"playUrl": "",
 		"categories": []
 	},
-    	{
-		"key": "白嫖联盟",
-		"name": "白嫖联盟",
-		"type": 0,
-		"api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
 	{
-		"key": "速影",
-		"name": "速影",
-		"type": 0,
-		"api": "https://速影128.xyz/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "私人地址（随时失效）",
-		"name": "私人地址（随时失效）",
-		"type": 0,
-		"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
 	{
 		"key": "无极影院",
 		"name": "无极影院",
