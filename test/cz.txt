@@ -304,14 +304,6 @@
 		"categories": []
 	},
 	{
-		"key": "私人地址（随时失效）",
-		"name": "私人地址（随时失效）",
-		"type": 0,
-		"api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "无极影院",
 		"name": "无极影院",
 		"type": 0,
