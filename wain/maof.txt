@@ -785,9 +785,10 @@
           ]
         },
         {
-          "name": "魅力足球",
+          "name": "凤凰资讯",
           "urls": [
-            "http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8"
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
           ]
         },
         {
