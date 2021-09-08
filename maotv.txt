@@ -379,6 +379,27 @@
       "playUrl": ""
     },
     {
+      "key": "热映解析",
+      "name": "热映解析",
+      "type": 0,
+      "api": "http://hl.reying.vip/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "红影",
+      "name": "红影",
+      "type": 0,
+      "api": "http://csksk.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "星辰云资源",
+      "name": "星辰云资源",
+      "type": 0,
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "360资源",
       "name": "360资源",
       "type": 0,
