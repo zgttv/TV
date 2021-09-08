@@ -249,6 +249,7 @@
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": "",
+            "searchable": 0,
  "categories": [
      "综艺",
      "动漫",
