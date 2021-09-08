@@ -176,13 +176,6 @@
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "playUrl": ""
     },
-            {
-      "key": "2A资源",
-      "name": "2A资源",
-      "type": 1,
-      "api": "https://zy.zcocc.com/api.php/provide/vod/",
-      "playUrl": ""
-    },
                 {
       "key": "饭团资源",
       "name": "饭团资源",
