@@ -7,7 +7,6 @@
       "type": 2,
       "api": "7gxke5P9eFZoVV",
       "playUrl": "",
-      "searchable": 0,
       "filterable": 1
     },
     {
