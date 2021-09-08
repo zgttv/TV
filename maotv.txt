@@ -386,10 +386,10 @@
       "playUrl": ""
     },
     {
-      "key": "乐喵资源",
-      "name": "乐喵资源",
+      "key": "橘猫影视",
+      "name": "橘猫影视",
       "type": 0,
-      "api": "https://98hyk.cn/api.php/provide/vod/at/xm",
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -477,10 +477,10 @@
       "playUrl": ""
     },
     {
-      "key": "豆瓣云",
-      "name": "豆瓣云",
+      "key": "2A资源",
+      "name": "2A资源",
       "type": 0,
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
