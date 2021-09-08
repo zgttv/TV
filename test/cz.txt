@@ -112,6 +112,30 @@
 		"playUrl": "",
 		"categories": []
 	},
+    	{
+		"key": "九九美剧",
+		"name": "九九美剧",
+		"type": 0,
+		"api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+    	{
+		"key": "剧好看",
+		"name": "剧好看",
+		"type": 0,
+		"api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+    	{
+		"key": "天堂资源",
+		"name": "天堂资源",
+		"type": 0,
+		"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
         	{
 		"key": "淘片优质直解",
 		"name": "淘片优质直解",
