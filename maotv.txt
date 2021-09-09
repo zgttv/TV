@@ -422,6 +422,13 @@
       "playUrl": ""
     },
     {
+      "key": "电牛资源",
+      "name": "电牛资源",
+      "type": 0,
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "BL视频",
       "name": "BL视频",
       "type": 0,
