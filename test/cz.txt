@@ -186,34 +186,45 @@
       "playUrl": "http://api.u1o.net/?url=",
       		"categories": []
     },
-        {
-      "key": "1717主流爬",
-      "name": "1717综合资源",
+	 {
+      "key": "1717腾讯资源",
+      "name": "腾讯资源",
       "type": 0,
-      "api": "http://zy.itono.cn/inc/api.php",
-      "playUrl": "",
-            "searchable": 0,
- "categories": [
-     "综艺",
-     "动漫",
-     "动作片",
-     "喜剧片",
-     "爱情片",
-     "科幻片",
-     "恐怖片",
-     "剧情片",
-     "战争片",
-     "国产剧",
-     "港台剧",
-     "日韩剧",
-     "欧美剧",
-     "魔幻片",
-     "悬疑片",
-     "综合片",
-     "犯罪片",
-     "其他剧",
-     "动画片"
- ]
+      "api": "http://zy.itono.cn/inc/qq.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
+    },
+	  {
+      "key": "1717爱奇艺资源",
+      "name": "爱奇艺资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/qiyi.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
+    },
+		{
+      "key": "1717搜狐资源",
+      "name": "搜狐资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/sohu.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
+    },
+	{
+      "key": "1717bilibili资源",
+      "name": "bilibili资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/bilibili.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
+    },
+	{
+      "key": "1717pptv资源",
+      "name": "pptv资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/pptv.php",
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
     },
     {
       "key": "M3U8.TV",
