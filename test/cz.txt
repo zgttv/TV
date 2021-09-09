@@ -147,11 +147,11 @@
       "type": 1,
       "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list"
     },
-    {
-      "key": "阿里影视",
-      "name": "阿里影视",
+        {
+      "key": "最新资源",
+      "name": "最新资源",
       "type": 0,
-      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml"
+      "api": "https://api.yunboys.cn/api.php/provide/vod/at/xml/"
     },
         	{
 		"key": "淘片优质直解",
