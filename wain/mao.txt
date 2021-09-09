@@ -289,7 +289,6 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
       "playUrl": ""
     },
-        {
       {
       "key": "1905资源",
       "name": "1905资源",
