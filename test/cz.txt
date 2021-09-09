@@ -207,7 +207,7 @@
       "name": "搜狐资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/sohu.php",
-      "playUrl": "http://api.u1o.net/?url=",
+      "playUrl": "https://jx.xmflv.com/?url=",
       		"categories": []
     },
 	{
