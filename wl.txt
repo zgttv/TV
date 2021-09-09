@@ -12,6 +12,7 @@
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 1717云,http://zy.itono.cn/inc/api.php,解析
 快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml,解析
+乐播,http://lbapiby.com/api.php/provide/vod/at/xml/,解析
 无名,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 速云,https://xn--128-zm3fr26s.xyz/inc/api.php,解析
 88,http://www.88zyw.net/inc/api.php,解析
@@ -47,7 +48,7 @@ PPTV,http://zy.itono.cn/inc/pptv.php,解析
 哔哩哔哩,http://zy.itono.cn/inc/bilibili.php,解析
 结束
 解析：
-jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
+m3u8,https://www.playm3u8.cn/jiexi.php?url=
 数码小站,http://tv.shuma.ink/?url=
 乐喵,http://jx.hao-zsj.cn/vip/?url=
 明日,https://www.2ajx.com/vip.php?url=
