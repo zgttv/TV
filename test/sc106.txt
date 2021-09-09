@@ -112,7 +112,7 @@
       "name": "腾讯资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/qq.php",
-      "playUrl": "http://api.u1o.net/?url=",
+      "playUrl": "https://vip.ylys.cc/?url=",
       		"categories": []
     },
 	  {
@@ -120,7 +120,7 @@
       "name": "爱奇艺资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/qiyi.php",
-      "playUrl": "http://api.u1o.net/?url=",
+      "playUrl": "https://vip.ylys.cc/?url=",
       		"categories": []
     },
 		{
@@ -128,7 +128,7 @@
       "name": "搜狐资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/sohu.php",
-      "playUrl": "https://jx.xmflv.com/?url=",
+      "playUrl": "https://vip.ylys.cc/?url=",
       		"categories": []
     },
 	{
@@ -136,7 +136,7 @@
       "name": "bilibili资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/bilibili.php",
-      "playUrl": "http://api.u1o.net/?url=",
+      "playUrl": "https://vip.ylys.cc/?url=",
       		"categories": []
     },
 	{
@@ -144,7 +144,7 @@
       "name": "pptv资源",
       "type": 0,
       "api": "http://zy.itono.cn/inc/pptv.php",
-      "playUrl": "http://api.u1o.net/?url=",
+      "playUrl": "https://vip.ylys.cc/?url=",
       		"categories": []
     },
     {
