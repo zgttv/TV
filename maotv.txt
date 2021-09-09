@@ -878,7 +878,7 @@
       "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
-      "name": "vip",
+      "name": "BL",
       "url": "https://vip.bljiex.com/?v="
     },
     {
@@ -926,10 +926,6 @@
     {
       "name": "Ckplayer",
       "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "ccyjjd",
