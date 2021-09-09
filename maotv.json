@@ -26,11 +26,11 @@
       ]
     },
     {
-      "title": "AUETE影视",
-      "vodtype": "电影&电视剧&综艺&动漫&其它&喜剧片&动作片&爱情片&科幻片&恐怖片&战争片&剧情片&美剧&韩剧&日剧&泰剧&网剧&台剧&国产&港剧",
-      "vodhref": "Movie&Tv&Zy&Dm&qita&Movie/xjp&Movie/dzp&Movie/aqp&Movie/khp&Movie/kbp&Movie/zzp&Movie/jqp&Tv/oumei&Tv/hanju&Tv/riju&Tv/yataiju&Tv/wangju&Tv/taiju&Tv/neidi&Tv/tvbgj",
-      "ico": "https://auete.com/static/picture/logo.png",
-      "url": "https://auete.com"
+      "title":"AUETE影视",
+      "vodtype":"电影&电视剧&综艺&动漫&其它&喜剧片&动作片&爱情片&科幻片&恐怖片&战争片&剧情片&美剧&韩剧&日剧&泰剧&网剧&台剧&国产&港剧",
+      "vodhref":"Movie&Tv&Zy&Dm&qita&Movie/xjp&Movie/dzp&Movie/aqp&Movie/khp&Movie/kbp&Movie/zzp&Movie/jqp&Tv/oumei&Tv/hanju&Tv/riju&Tv/yataiju&Tv/wangju&Tv/taiju&Tv/neidi&Tv/tvbgj",
+      "ico":"https://auete.com/static/picture/logo.png",
+      "url":"https://auete.com"
     },
     {
       "key": "HG影视",
