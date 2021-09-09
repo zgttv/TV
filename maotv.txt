@@ -555,11 +555,11 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
-      "key": "爱看影视",
-      "name": "爱看影视",
+      "key": "红牛资源",
+      "name": "红牛资源",
       "type": 1,
-      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+      "api": "http://www.hongniuzy.com/inc/api.php",
+      "playUrl": ""
     },
     {
       "key": "小蜻蜓采集",
