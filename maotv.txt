@@ -499,15 +499,15 @@
       "playUrl": ""
     },
     {
-      "key": "0号资源",
-      "name": "0号资源",
+      "key": "360资源",
+      "name": "360资源",
       "type": 0,
       "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
-      "key": "360资源",
-      "name": "360资源",
+      "key": "000资源",
+      "name": "000资源",
       "type": 0,
       "api": "http://api.000zy.com/provide/vod/at/xml/",
       "playUrl": ""
