@@ -36,6 +36,7 @@ U猫资源,http://umao.ml/api.php/provide/vod/at/xml,解析
 北斗星资源,https://api.bdxzyapi.com/api.php/provide/vod/at/xml,解析
 苗点影视,https://www.neenl.com/api.php/provide/vod/at/xml,解析
 泰剧迷,https://www.taijumi.cc/api.php/provide/vod/at/xml,解析
+剧好看,https://www.juhaokan.cc/api.php/provide/vod/at/xml,解析
 优酷,http://zy.itono.cn/inc/youku.php,解析
 芒果,http://zy.itono.cn/inc/mgtv.php,解析
 乐视,http://zy.itono.cn/inc/letv.php,解析
