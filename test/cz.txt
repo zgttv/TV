@@ -183,7 +183,8 @@
       "name": "1905资源",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-      "playUrl": ""
+      "playUrl": "http://api.u1o.net/?url=",
+      		"categories": []
     },
         {
       "key": "1717主流爬",
