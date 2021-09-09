@@ -97,22 +97,6 @@
       "filterable": 1
     },
     	{
-		"key": "泡泡影视",
-		"name": "泡泡影视",
-		"type": 0,
-		"api": "http://www.chinaboshan.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-    	{
-		"key": "剧好看",
-		"name": "剧好看",
-		"type": 0,
-		"api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-    	{
 		"key": "天堂资源",
 		"name": "天堂资源",
 		"type": 0,
@@ -144,58 +128,6 @@
         "欧美剧"
       ]
     },
-     {
-      "key": "江湖资源(好)",
-      "name": "江湖资源",
-      "type": 0,
-      "api": "http://sm.2021ys.ltd/mv/api.php/provide/vod/at/xml",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧",
-        "爱情",
-        "科幻",
-        "恐怖",
-        "剧情",
-        "战争",
-        "大陆剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "纪录",
-        "海外剧",
-        "H国产剧",
-        "高清电视剧",
-        "伦理"
-      ]
-    },
-    {
-      "key": "呆呆影视",
-      "name": "呆呆影视",
-      "type": 1,
-      "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.daidaitv.top:43810/?url=",
-      "categories": [
-        "影片",
-        "追剧",
-        "综艺",
-        "哔哩"
-     ]
-   },
-    {
-      "key": "爱看影视",
-      "name": "爱看影视",
-      "type": 1,
-      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/?ac=list"
-    },
-    {
-      "key": "亦龙APP",
-      "name": "亦龙APP",
-      "type": 0,
-      "api": "http://app2.yilongys.cn/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.bljiex.com/?v="
-    },
     {
       "key": "好好资源",
       "name": "好好资源",
@@ -216,17 +148,10 @@
       "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list"
     },
     {
-      "key": "清莲资源",
-      "name": "清莲资源",
-      "type": 1,
-      "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
-      "playUrl": "http://api.u1o.net/?url="
-    },
-    {
-      "key": "恐怖鸭",
-      "name": "恐怖鸭",
+      "key": "阿里影视",
+      "name": "阿里影视",
       "type": 0,
-      "api": "http://snailkya.xyz/api.php/provide/vod/at/xml"
+      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml"
     },
         	{
 		"key": "淘片优质直解",
