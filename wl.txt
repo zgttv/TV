@@ -12,7 +12,6 @@
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 1717云,http://zy.itono.cn/inc/api.php,解析
 快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml,解析
-乐播,http://lbapiby.com/api.php/provide/vod/at/xml/,解析
 无名,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 速云,https://xn--128-zm3fr26s.xyz/inc/api.php,解析
 88,http://www.88zyw.net/inc/api.php,解析
