@@ -555,11 +555,11 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
-      "key": "白熊影院",
-      "name": "白熊影院",
+      "key": "爱看影视",
+      "name": "爱看影视",
       "type": 1,
-      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://jiexi.cjt521.com/?url="
+      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
+      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
       "key": "小蜻蜓采集",
