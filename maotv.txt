@@ -429,6 +429,13 @@
       "playUrl": ""
     },
     {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 0,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.fqzy.cc/jx.php?url="
+    },
+    {
       "key": "BL视频",
       "name": "BL视频",
       "type": 0,
