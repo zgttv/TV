@@ -393,8 +393,8 @@
       "playUrl": ""
     },
     {
-      "key": "yunboys",
-      "name": "yunboys",
+      "key": "云博解析",
+      "name": "云博解析",
       "type": 0,
       "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
       "playUrl": ""
