@@ -914,6 +914,14 @@
       "url": "https://api.jhdyw.vip/?url="
     },
     {
+      "name": "飞跃",
+      "url": "http://feiyue.rf.gd/jx/?v="
+    },
+    {
+      "name": "游艺",
+      "url": "http://api.u1o.net/?url="
+    },
+    {
       "name": "Parwix解析",
       "url": "https://vip.parwix.com:4433/player/?url="
     },
