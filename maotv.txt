@@ -2,27 +2,30 @@
 {
   "sites": [
     {
-      "key": "M3U8.TV",
-      "name": "M3U8.TV",
+      "key": "游艺资源",
+      "name": "游艺资源",
       "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
-      "playUrl": "",
+      "api": "https://zhicai.u1o.net/api.php/provide/vod/at/xml",
+      "playUrl": "https://api.u1o.net/?url=",
       "categories": [
-        "国产剧",
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧",
+        "爱情",
+        "科幻",
+        "恐怖",
+        "剧情",
+        "战争",
+        "大陆剧",
         "港台剧",
         "日韩剧",
         "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
+        "纪录",
+        "海外剧",
+        "蓝光电影",
+        "蓝光电视剧",
+        "蓝光动漫"
       ]
     },
     {
@@ -123,30 +126,27 @@
       "filterable": 1
     },
     {
-      "key": "游艺资源",
-      "name": "游艺资源",
+      "key": "星辰云资源",
+      "name": "星辰云资源",
       "type": 0,
-      "api": "https://zhicai.u1o.net/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.u1o.net/?url=",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "playUrl": "",
       "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧",
-        "爱情",
-        "科幻",
-        "恐怖",
-        "剧情",
-        "战争",
-        "大陆剧",
+        "国产剧",
         "港台剧",
         "日韩剧",
         "欧美剧",
-        "纪录",
-        "海外剧",
-        "蓝光电影",
-        "蓝光电视剧",
-        "蓝光动漫"
+        "泰剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
       ]
     },
     {
@@ -516,13 +516,6 @@
       "name": "红影",
       "type": 0,
       "api": "http://csksk.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "星辰云资源",
-      "name": "星辰云资源",
-      "type": 0,
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
