@@ -2,8 +2,8 @@
 {
   "sites": [
     {
-      "key": "M3U8.TV",
-      "name": "M3U8.TV",
+      "key": "星辰云资源",
+      "name": "星辰云资源",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "playUrl": "",
