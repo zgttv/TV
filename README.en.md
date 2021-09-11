@@ -26,11 +26,13 @@ Software architecture description
 4.  Create Pull Request
 
 视频源地址
-maotv https://gitee.com/zhaoxwing/mytv
-maof https://gitee.com/tzhlzt/mo/tree/master/wain
-maoconfig https://gitee.com/wuzuoo/maoconfig/
-ljf7889673 https://gitee.com/ljf7889673/ljf222
+1.  maotv https://gitee.com/zhaoxwing/mytv
+2.  maof https://gitee.com/tzhlzt/mo/tree/master/wain
+3.  maoconfig https://gitee.com/wuzuoo/maoconfig/
+4.  ljf7889673 https://gitee.com/ljf7889673/ljf222
+
 #### Gitee Feature
+
 
 1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
 2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
