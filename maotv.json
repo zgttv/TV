@@ -2,8 +2,8 @@
 {
   "sites": [
     {
-      "key": "M3U8.TV",
-      "name": "M3U8.TV",
+      "key": "星辰云资源",
+      "name": "星辰云资源",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "playUrl": "",
@@ -393,8 +393,8 @@
       "playUrl": ""
     },
     {
-      "key": "yunboys",
-      "name": "yunboys",
+      "key": "云博解析",
+      "name": "云博解析",
       "type": 0,
       "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
       "playUrl": ""
@@ -863,6 +863,10 @@
     {
       "name": "江湖云",
       "url": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "name": "飞跃",
+      "url": "http://feiyue.rf.gd/jx/?v="
     },
     {
       "name": "游艺解析",
