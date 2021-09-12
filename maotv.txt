@@ -2,31 +2,11 @@
 {
   "sites": [
     {
-      "key": "游艺资源",
-      "name": "游艺资源",
+      "key": "九九美剧",
+      "name": "九九美剧",
       "type": 0,
-      "api": "https://zhicai.u1o.net/api.php/provide/vod/at/xml",
-      "playUrl": "https://api.u1o.net/?url=",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧",
-        "爱情",
-        "科幻",
-        "恐怖",
-        "剧情",
-        "战争",
-        "大陆剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "纪录",
-        "海外剧",
-        "蓝光电影",
-        "蓝光电视剧",
-        "蓝光动漫"
-      ]
+      "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "afys_spider",
@@ -124,6 +104,33 @@
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
+    },
+    {
+      "key": "游艺资源",
+      "name": "游艺资源",
+      "type": 0,
+      "api": "https://zhicai.u1o.net/api.php/provide/vod/at/xml",
+      "playUrl": "https://api.u1o.net/?url=",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作",
+        "喜剧",
+        "爱情",
+        "科幻",
+        "恐怖",
+        "剧情",
+        "战争",
+        "大陆剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "纪录",
+        "海外剧",
+        "蓝光电影",
+        "蓝光电视剧",
+        "蓝光动漫"
+      ]
     },
     {
       "key": "星辰云资源",
