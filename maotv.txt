@@ -9,6 +9,13 @@
       "playUrl": ""
     },
     {
+      "key": "泰剧迷",
+      "name": "泰剧迷",
+      "type": 0,
+      "api": "https://www.taijumi.cc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "afys_spider",
       "name": "阿房影视",
       "type": 2,
