@@ -2,6 +2,13 @@
 {
   "sites": [
     {
+      "key": "九九美剧",
+      "name": "九九美剧",
+      "type": 0,
+      "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "星辰云资源",
       "name": "星辰云资源",
       "type": 0,
