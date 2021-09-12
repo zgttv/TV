@@ -456,6 +456,13 @@
       "playUrl": ""
     },
     {
+      "key": "火星2048",
+      "name": "火星2048",
+      "type": 0,
+      "api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "任我云",
       "name": "任我云",
       "type": 0,
