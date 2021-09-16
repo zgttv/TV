@@ -584,35 +584,35 @@
     {
       "key": "白熊影视",
       "name": "白熊影视",
-      "type": 1,
+      "type": 0,
       "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
       "key": "嘿锋影视",
       "name": "嘿锋影视",
-      "type": 1,
+      "type": 0,
       "api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
       "key": "YT影视",
       "name": "YT影视",
-      "type": 1,
+      "type": 0,
       "api": "http://ytys.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
       "key": "七七电影",
       "name": "七七电影",
-      "type": 1,
+      "type": 0,
       "api": "https://www.77diany.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
       "key": "飞鱼影视",
       "name": "飞鱼影视",
-      "type": 1,
+      "type": 0,
       "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
