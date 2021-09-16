@@ -582,6 +582,13 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
+      "key": "白熊影视",
+      "name": "白熊影视",
+      "type": 1,
+      "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "嘿锋影视",
       "name": "嘿锋影视",
       "type": 1,
