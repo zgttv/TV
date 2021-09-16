@@ -673,6 +673,13 @@
       "playUrl": ""
     },
     {
+      "key": "虾米资源",
+      "name": "虾米资源",
+      "type": 0,
+      "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "小蜻蜓采集",
       "name": "小蜻蜓采集",
       "type": 0,
@@ -754,6 +761,13 @@
       "name": "追剧吧",
       "type": 0,
       "api": "https://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "type": 0,
+      "api": "https://www.hongniuzy.com/inc/api.php",
       "playUrl": ""
     },
     {
