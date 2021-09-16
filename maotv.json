@@ -687,6 +687,27 @@
       "playUrl": ""
     },
     {
+      "key": "小小资源",
+      "name": "小小资源",
+      "type": 0,
+      "api": "http://haowywz.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "飘花电影网",
+      "name": "飘花电影网",
+      "type": 0,
+      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "追剧吧",
+      "name": "追剧吧",
+      "type": 0,
+      "api": "https://www.huaxiab.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "88资源",
       "name": "88资源",
       "type": 0,
