@@ -1010,6 +1010,10 @@
       "url": "https://api.u1o.net/?url="
     },
     {
+      "name": "麻瓜",
+      "url": "http://player.maguays.cc/?url="
+    },
+    {
       "name": "飞跃",
       "url": "http://feiyue.rf.gd/jx/?v="
     },
