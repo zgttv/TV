@@ -9,6 +9,13 @@
       "playUrl": ""
     },
     {
+      "key": "韩剧资源",
+      "name": "韩剧资源",
+      "type": 0,
+      "api": "http://www.hanjuzy.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
       "key": "泰剧迷",
       "name": "泰剧迷",
       "type": 0,
@@ -561,6 +568,34 @@
       "playUrl": "https://api.jhdyw.vip/?url="
     },
     {
+      "key": "嘿锋影视",
+      "name": "嘿锋影视",
+      "type": 1,
+      "api": "https://www.hfys8.vip/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "YT影视",
+      "name": "YT影视",
+      "type": 1,
+      "api": "http://ytys.cc/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "七七电影",
+      "name": "七七电影",
+      "type": 1,
+      "api": "https://www.77diany.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "飞鱼影视",
+      "name": "飞鱼影视",
+      "type": 1,
+      "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "欧乐影院",
       "name": "欧乐影院",
       "type": 0,
@@ -579,6 +614,13 @@
       "name": "2A资源",
       "type": 0,
       "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "影视聚合采集",
+      "name": "影视聚合采集",
+      "type": 0,
+      "api": "http://zy.vodcdn.top/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -610,6 +652,13 @@
       "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
+      "key": "电影盒子",
+      "name": "电影盒子",
+      "type": 0,
+      "api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "孤单影院",
       "name": "孤单影院",
       "type": 0,
@@ -621,6 +670,13 @@
       "name": "88资源",
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "爱看1080",
+      "name": "爱看1080",
+      "type": 0,
+      "api": "http://www.ik1080.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
