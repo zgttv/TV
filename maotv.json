@@ -498,13 +498,6 @@
       "playUrl": ""
     },
     {
-      "key": "红影",
-      "name": "红影",
-      "type": 0,
-      "api": "http://csksk.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
       "key": "影派资源",
       "name": "影派资源",
       "type": 0,
@@ -547,10 +540,31 @@
       "playUrl": ""
     },
     {
+      "key": "红影app",
+      "name": "红影app",
+      "type": 0,
+      "api": "http://csksk.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "侦探app",
       "name": "侦探app",
       "type": 0,
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "追剧吧app",
+      "name": "追剧吧app",
+      "type": 0,
+      "api": "http://data.zju8.cc:1234/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "云播app",
+      "name": "云播app",
+      "type": 0,
+      "api": "http://bxin.tv/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -713,12 +727,6 @@
           "name": "足球频道",
           "urls": [
             "http://nmglive.imfc.cn/5n1r1c/182396.m3u8"
-          ]
-        },
-        {
-          "name": "广东体育",
-          "urls": [
-            "http://149.129.100.78/guangdong.php?id=47"
           ]
         },
         {
