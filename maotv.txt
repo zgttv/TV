@@ -1082,6 +1082,10 @@
       "url": "https://vip123kan.vip/m3u8.php?url="
     },
     {
+      "name": "人人迷",
+      "url": "https://jx.renrenmi.cc/?url="
+    },
+    {
       "name": "云解析",
       "url": "https://jx.aidouer.net/?url="
     },
