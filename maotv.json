@@ -1021,6 +1021,14 @@
   ],
   "parses": [
     {
+      "name": "VIP尊享",
+      "url": "https://player.maqq.cn/?url="
+    },
+    {
+      "name": "樱花",
+      "url": "https://buaon.xyz/?url="
+    },
+    {
       "name": "暮光解析",
       "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
