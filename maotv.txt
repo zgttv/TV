@@ -1078,6 +1078,14 @@
       "url": "https://buaon.xyz/?url="
     },
     {
+      "name": "追剧达人",
+      "url": "https://vip123kan.vip/m3u8.php?url="
+    },
+    {
+      "name": "云解析",
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
       "name": "暮光解析",
       "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
