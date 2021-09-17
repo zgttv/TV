@@ -617,6 +617,41 @@
       "playUrl": ""
     },
     {
+      "key": "融兴资源",
+      "name": "融兴资源",
+      "type": 0,
+      "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "飘花电影",
+      "name": "飘花电影",
+      "type": 0,
+      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "蜂鸟视频",
+      "name": "蜂鸟视频",
+      "type": 0,
+      "api": "https://v.fnsp0.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "随便看电影",
+      "name": "随便看电影",
+      "type": 0,
+      "api": "https://www.sbkdy.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "X8影音",
+      "name": "X8影音",
+      "type": 0,
+      "api": "https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "虾米资源",
       "name": "虾米资源",
       "type": 0,
@@ -1008,6 +1043,30 @@
     {
       "name": "游艺解析",
       "url": "https://api.u1o.net/?url="
+    },
+    {
+      "name": "凉城解析",
+      "url": "http://jx.mw0.cc/?url="
+    },
+    {
+      "name": "无广告",
+      "url": "https://api.steak517.top/?url="
+    },
+    {
+      "name": "无广告2",
+      "url": "https://api.78sy.cn/?url="
+    },
+    {
+      "name": "8B无广告",
+      "url": "https://api.8bjx.cn/?url="
+    },
+    {
+      "name": "腾讯直解",
+      "url": "https://vip.52jiexi.top/?url="
+    },
+    {
+      "name": "腾讯直解2",
+      "url": "https://www.myxin.top/jx/api/?url="
     },
     {
       "name": "麻瓜",
