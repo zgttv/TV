@@ -687,10 +687,17 @@
       "playUrl": ""
     },
     {
-      "key": "2A资源",
-      "name": "2A资源",
+      "key": "迷你库",
+      "name": "迷你库",
       "type": 0,
-      "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "趣看资源",
+      "name": "趣看资源",
+      "type": 0,
+      "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
