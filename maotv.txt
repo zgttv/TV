@@ -134,6 +134,57 @@
       "filterable": 1
     },
     {
+      "key": "滴哩TV",
+      "name": "滴哩TV",
+      "type": 1,
+      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "犯罪片",
+        "纪录片",
+        "悬疑片",
+        "奇幻片"
+      ]
+    },
+     {
+      "key": "千寻影视",
+      "name": "千寻影视",
+      "type": 1,
+      "api": "http://wy.dqyhg.cn/api.php/provide/vod/?ac=list",
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "台湾剧",
+        "蓝光大陆",
+        "港台综艺"
+      ]
+      },
+    {
       "key": "游艺资源",
       "name": "游艺资源",
       "type": 0,
@@ -463,6 +514,20 @@
       ]
     },
     {
+      "key": "人人迷",
+      "name": "人人迷",
+      "type": 0,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "key": "呆呆影视",
+      "name": "呆呆影视",
+      "type": 0,
+      "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.daidaitv.top:43810/?url="
+    },
+    {
       "key": "09蓝光影视",
       "name": "09蓝光影视",
       "type": 0,
@@ -768,6 +833,13 @@
       "name": "喵派对蓝光",
       "type": 0,
       "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "淘片",
+      "name": "淘片",
+      "type": 0,
+      "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
       "playUrl": ""
     },
     {
