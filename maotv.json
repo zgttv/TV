@@ -528,6 +528,13 @@
       "playUrl": "https://jx.fqzy.cc/jx.php?url="
     },
     {
+      "key": "清莲资源",
+      "name": "清莲资源",
+      "type": 1,
+      "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
+      "playUrl": "http://api.u1o.net/?url="
+    },
+    {
       "key": "BL视频",
       "name": "BL视频",
       "type": 0,
