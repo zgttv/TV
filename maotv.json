@@ -467,14 +467,14 @@
     {
       "key": "人人迷",
       "name": "人人迷",
-      "type": 0,
+      "type": 1,
       "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
       "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
       "key": "呆呆影视",
       "name": "呆呆影视",
-      "type": 0,
+      "type": 1,
       "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
       "playUrl": "https://jx.daidaitv.top:43810/?url="
     },
