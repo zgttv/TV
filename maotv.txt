@@ -6,13 +6,20 @@
       "name": "TVB云播",
       "type": 0,
       "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip123kan.vip/m3u8.php?url="
+      "playUrl": ""
     },
     {
       "key": "九九美剧",
       "name": "九九美剧",
       "type": 0,
       "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "美剧星球",
+      "name": "美剧星球",
+      "type": 0,
+      "api": "https://www.meijuxq.com/inc/api.php",
       "playUrl": ""
     },
     {
