@@ -691,7 +691,7 @@
       "name": "迷你库",
       "type": 0,
       "api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
-      "playUrl": ""
+      "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
       "key": "趣看资源",
