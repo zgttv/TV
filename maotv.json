@@ -470,6 +470,13 @@
       "playUrl": ""
     },
     {
+      "key": "追剧喵",
+      "name": "追剧喵",
+      "type": 0,
+      "api": "https://zjmiao.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "优全影视",
       "name": "优全影视",
       "type": 0,
@@ -586,7 +593,7 @@
       "name": "百度采集",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
-      "playUrl": "https://api.jhdyw.vip/?url="
+      "playUrl": ""
     },
     {
       "key": "白熊影视",
@@ -719,7 +726,7 @@
       "name": "真不卡",
       "type": 0,
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+      "playUrl": ""
     },
     {
       "key": "电影盒子",
