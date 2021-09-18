@@ -635,7 +635,7 @@
       "name": "百度采集",
       "type": 1,
       "api": "https://api.bdjx.vip/api.php/provide/vod/",
-      "playUrl": "https://api.jhdyw.vip/?url="
+      "playUrl": ""
     },
     {
       "key": "白熊影视",
@@ -729,10 +729,17 @@
       "playUrl": ""
     },
     {
-      "key": "2A资源",
-      "name": "2A资源",
+      "key": "迷你库",
+      "name": "迷你库",
       "type": 0,
-      "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "趣看资源",
+      "name": "趣看资源",
+      "type": 0,
+      "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
       "playUrl": ""
     },
     {
@@ -768,7 +775,7 @@
       "name": "真不卡",
       "type": 0,
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+      "playUrl": ""
     },
     {
       "key": "电影盒子",
