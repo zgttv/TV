@@ -570,11 +570,11 @@
       "playUrl": ""
     },
     {
-      "key": "清莲资源",
-      "name": "清莲资源",
+      "key": "清莲影院",
+      "name": "清莲影院",
       "type": 1,
       "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
-      "playUrl": "http://api.u1o.net/?url="
+      "playUrl": "https://buaon.xyz/?url="
     },
     {
       "key": "番茄资源",
