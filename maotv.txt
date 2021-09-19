@@ -864,6 +864,13 @@
       "playUrl": ""
     },
     {
+      "key": "灵芝源",
+      "name": "灵芝源",
+      "type": 0,
+      "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "电影盒子",
       "name": "电影盒子",
       "type": 0,
@@ -1170,12 +1177,12 @@
   ],
   "parses": [
     {
-      "name": "VIP尊享",
-      "url": "https://player.maqq.cn/?url="
-    },
-    {
       "name": "樱花",
       "url": "https://buaon.xyz/?url="
+    },
+    {
+      "name": "VIP尊享",
+      "url": "https://player.maqq.cn/?url="
     },
     {
       "name": "追剧达人",
