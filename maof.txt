@@ -1170,7 +1170,35 @@
     }
   ],
   "parses": [
-              {
+      {
+      "name": "json",
+        "url": "https://api.m7716.com/?url="
+    },
+    {
+      "name": "json1",
+        "url": "http://jx.vipmv.co/json3/?url="
+    },
+    {
+      "name": "json2",
+        "url": "http://play.bichangzw.cn/jianghu/json/?url="
+    },
+    {
+      "name": "json3",
+        "url": "https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="
+    },
+    {
+      "name": "json4",
+        "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=dfghjlsvDGKMPQRSUV&url="
+    },
+    {
+      "name": "Json.VodJX",
+        "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+    },
+    {
+      "name": "json6",
+        "url": "http://jxgg.work/json.php?url="
+    },
+    {
       "name": "默认",
         "url": "https://api.jhdyw.vip/?url="
     },
