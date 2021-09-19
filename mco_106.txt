@@ -483,9 +483,9 @@
           ]
         },
         {
-          "name": "安徽人物",
+          "name": "香港卫视",
           "urls": [
-            "http://zbbf2.ahtv.cn/live/da9.m3u8"
+            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
           ]
         }
       ]
