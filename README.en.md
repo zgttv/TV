@@ -27,7 +27,7 @@
 
 #### 内置爬虫
 
-    {
+     {
       "key": "afys_spider",
       "name": "阿房影视",
       "type": 2,
@@ -97,13 +97,13 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    {Z
+    {
       "key": "zjm_spider",
       "name": "追剧喵",
       "type": 2,
       "api": "KaxKyHhd9ErA9n",
       "playUrl": "",
-      "quickSearch": 0,
+       "quickSearch": 0,
       "filterable": 1
     },
     {
@@ -123,7 +123,7 @@
       "playUrl": "",
       "quickSearch": 0,
       "filterable": 1
-    },Z
+    },
 
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
