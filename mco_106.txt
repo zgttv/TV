@@ -454,16 +454,16 @@
         "url": "https://api.jhdyw.vip/?url="
     },
         {
-      "name": "80tv",
-      "url": "https://1.api.80tvs.cn/?url="
+      "name": "OK",
+      "url": "https://okjx.cc/?url="
     },
      {
       "name": "月亮",
       "url": "https://vip.jianjians.com/?url="
     },
          {
-      "name": "2Ajx",
-      "url": "https://www.2ajx.com/vip.php?url="
+      "name": "虾米",
+      "url": "https://jx.7kjx.com/?url="
     },
              {
       "name": "BL解析",
