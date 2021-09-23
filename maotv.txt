@@ -478,7 +478,7 @@
       "name": "乐多采集",
       "type": 0,
       "api": "https://cj.leduocaiji.com/inc/api.php",
-      "playUrl": "https://api.xxctzy.com/1.php?vid=",
+      "playUrl": "https://api.ldjx.cc/wp-api/ifr.php?vid=",
       "categories": [
         "综艺",
         "动作片",
@@ -576,6 +576,13 @@
       "name": "555TV",
       "type": 0,
       "api": "http://w7tv.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "key": "MBOmovie",
+      "name": "MBOmovie",
+      "type": 0,
+      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+      "categories": ""
     },
     {
       "key": "09蓝光影视",
