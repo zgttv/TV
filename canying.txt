@@ -1,59 +1,277 @@
 点播：
+快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
+唐人街TV,https://www.tangrenjie.tv/api.php/provide/vod/at/xml,解析
+MBOmovie,https://www.mbomovie.com/api.php/provide/vod/at/xml,解析
+播放呀APP,https://www.bofangya.com/api.php/provide/vod/at/xml,解析
+追剧吧,http://www.huaxiab.com/api.php/provide/vod/at/xml,解析
+KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
+饭团资源,https://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+乐奇艺,https://www.lqiyi.co/api.php/provide/vod/at/xml,解析
+u猫,http://umao.ml/api.php/provide/vod/at/xml,解析
+结束
+解析：
+解析1,https://jf.4z.cm/jx/?url=
+Parwix解析,https://vip.parwix.com:4433/player/?url=
+虾米,https://jx.xmflv.com/?url=
+结束
 
-[{
-"name":"极品影视",
-"type":"wzxml",
-"api":"https://www.jpysvip.net/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-},{
-"name":"明日资源",
-"type":"wzxml",
-"api":"http://zy.zcocc.com/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-},{
-"name":"游艺资源",
-"type":"wzxml",
-"api":"https://zhicai.u1o.net/api.php/provide/vod/at/xml",
-"download":"https://api.u1o.net/?url="
-},{
-"name":"火星2048",
-"type":"wzxml",
-"api":"https://www.hx2048.com/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-},{
-"name":"番茄资源",
-"type":"wzxml",
-"api":"http://api.fqzy.cc/api.php/provide/vod/at/xml",
-"download":"https://jx.fqzy.cc/jx.php?url="
-},{
-"name":"BL视频",
-"type":"wzxml",
-"api":"https://bljiex.com/api.php/provide/vod/at/xml",
-"download":"https://vip.bljiex.com/?v="
-},{
-"name":"片库网",
-"type":"wzxml",
-"api":"https://pianku.wang/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-},{
-"name":"天堂影视",
-"type":"wzxml",
-"api":"http://vipmv.cc/api.php/provide/vod/at/xml",
-"download":"https://vip.parwix.com:4433/player/?url="
-},{
-"name":"小蜻蜓采集",
-"type":"wzxml",
-"api":"http://3ketv.com/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-},{
-"name":"09蓝光影视",
-"type":"wzxml",
-"api":"https://09tv.top/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-},{
-"name":"神马影院",
-"type":"wzxml",
-"api":"http://www.zitv.cc/api.php/provide/vod/at/xml",
-"download":"https://api.jhdyw.vip/?url="
-}
-]
+直播：
+【分类头】Astro-CCTV-test【分类尾】
+【Astro头】
+AOD-HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8 
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+HBO HD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
+HBO,http://198.16.106.62:8278//streams/d/sundance_twn/playlist.m3u8 
+TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+【Astro尾】
+【CCTV头】
+CCTV1綜合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV2財經,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+CCTV3綜藝,http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV4中文國際,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV5體育,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+體育賽事,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV6電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV7國防軍事,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+CCTV8電視劇,http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV9紀錄,http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV10科教,http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV11戲曲,http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV12社會與法,http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV13新聞,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV14少兒,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+CCTV15音樂,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+CCTV17農業農村,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
+【CCTV尾】
+【test头】
+TV1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/1
+TV1 (FHD),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/2
+TV2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/3
+TV2 (FHD),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/4
+TV3(A),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/5
+TV3(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/6
+TV3(C),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/7
+TV6,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/203
+ntv7,NTV7,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/8
+8TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/9
+TV9,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/10
+TV9(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/11
+TVS,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/214
+Okey,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/12
+Drama Sangat,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/13
+Awesome TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/387
+Alhijrah,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/14
+Astro Bernama,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/15
+Astro Awani,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/16
+Astro Awani(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/17
+Astro Oasis,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/18
+Astro Ceria,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/19
+Astro Ceria(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/20
+Astro Prima,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/21
+Astro Prima(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/22
+Astro Ria,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+Astro Ria (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/224
+Astro Ria (C),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/282
+Astro Warna (A),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/297
+Astro Warna (C),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
+Astro Warna(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/25
+Astro Citra,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/26
+Astro Citra(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/27
+Astro Aura,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/28
+Astro Rania,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/29
+Astro Naura,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/30
+Astro Naura(B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/31
+Astro Hello,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/32
+Astro BOO (M),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/248
+Astro BOO (ENG),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/33
+NET.,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/41
+ANTV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/42
+INDOSIAR,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/36
+TRANS TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/34
+TRANS 7,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/35
+SCTV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/37
+MNCTV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/40
+RCTI,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/38
+GTV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/39
+TVRI,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/208
+RTV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/210
+Astro AEC,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/43
+Astro AOD,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/44
+Wah Lai Toi,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/45
+Hua Hee Tai,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/46
+Quan Jia,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/47
+IQiyi,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/48
+Celestial Movies,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/49
+Celestial Classic Movies_A,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/50
+Celestial Classic Movies_B,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/51
+SCM Legend,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/52
+Star Chinese Movies,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/53
+Astro First -Malay (Test),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/353
+Astro First -Indian (Test),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/354
+HBO (B),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/235
+HBO (M),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/54
+HBO (ID),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/346
+HBO Hits,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/55
+HBO Family,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/56
+HBO Signature,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/57
+SHOWCASE MOVIES,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/394
+FOX Movies Premium,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/58
+FOX Action Movies,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/59
+FOX Family Movies (EN),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/60
+FOX Family Movies (ID),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/61
+&Flix HD,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/141
+&Prive HD,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
+Star Movies (FHD),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/220
+Star Movie Select (Testing),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
+SONY Pix (FHD),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/223
+MNX HD (FHD),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/222
+Cinemax,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/65
+Galaxy,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/66
+Galaxy Premium,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/67
+HITS Movies,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/68
+CinemaWorld,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/69
+Thrill,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/70
+IMC,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/71
+Flik,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/72
+Bioskop Indonesia,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/73
+KIX (C),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/74
+KIX (M),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/75
+AXN,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/76
+BBC Lifestyle,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/77
+HGTV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/78
+Warner TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/79
+Lifetime,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/80
+Blue Ant Entertainment,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/81
+Blue Ant Extreme,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/82
+FOX,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/83
+FOX Crime,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/84
+FOX Life,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/85
+HITS,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/86
+Crime Investigation,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/87
+Fashion TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/88
+Love Nature,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/89
+BBC Earth,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/90
+DMAX,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/91
+History,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/92
+National Geographic,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/93
+Nat Geo People,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/94
+Nat Geo Wild,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/95
+Animal Planet,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/96
+Discovery Channel,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/97
+Discovery Asia,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/98
+Discovery Science,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/99
+AFC,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/100
+TLC,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/101
+Animax,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/102
+Aniplus,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/103
+Waku Waku Japan,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/104
+Sony GEM TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/105
+iNews,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/209
+TVOne,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/106
+KOMPAS TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/107
+METRO TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/108
+SEA Today,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/109
+BBC World News,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/110
+NHK World,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/111
+CNN International,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/112
+CNN Indonesia,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/113
+DW,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/114
+Bloomberg,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/115
+Channel News Asia,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/116
+Al Quran Al Kareem TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/117
+U Channel,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/118
+Tawaf TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/119
+Disney Channel (E),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/120
+Disney Channel (M),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/121
+Disney Junior (E),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/122
+Cartoon Network (E),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/123
+Cartoon Network (ID),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/124
+Dreamworks,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/125
+Boomerang,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/126
+Nickelodeon,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/127
+Nick Jr,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/128
+Horee,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/129
+Zoomoo,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/130
+,My Kidz,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/131
+BabyFirst,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/132
+Sony One (E),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/133
+Sony One (M),http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/134
+tvN,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/135
+tvN Movies,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/136
+Arirang,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/137
+KBS World_A,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/138
+KBS World_B,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/139
+K+,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/140
+SUN TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/215
+Sony MAX,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/218
+ZEE Cinema,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/212
+ZEE Bioskop,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/142
+Bollyone HDs,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/143
+Astro Vinmeen,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/144
+Astro Vaanavil,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/145
+RTM Sports,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/146
+Arena,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
+ASSP_A,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/148
+ASSP_B,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/233
+ASSP2_A,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/149
+ASSP2_B,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/234
+ASSP3_A,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/150
+ASSP3_B,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/232
+ASSP4,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/151
+ASSP4_B,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/249
+FOX Sport 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/152
+FOX Sport 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/153
+FOX Sport 3,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/154
+beIN Sports 1 ID,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/155
+beIN Sports 2 ID,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/156
+Champions 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/157
+Champions 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/158
+Usee Sport 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/241
+Usee Sport 2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/242
+WWE,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/350
+Eurosport,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/328
+Rugby TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/337
+NBC Golf,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/159
+NBA TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/160
+Fight Sport,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/161
+eGG TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/162
+Baby TV,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/182
+MTV Live HD,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/206
+Channel V. Int,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/205
+Prambors,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/207
+i-Konser,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/204
+test2,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/226
+MNC Sport 1,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/280
+Zing,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/307
+test123,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/386
+Test87,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/391
+ERA,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/172
+SINAR,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/173
+HOT FM,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/174
+SURIA,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/175
+HITZ,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/176
+GEGAR,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/177
+KOOL FM,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/178
+FLY FM,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/179
+ONE FM,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/180
+MIX,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/181
+【test尾】
+结束
