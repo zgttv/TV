@@ -133,6 +133,8 @@ BL,https://vip.bljiex.com/?v=
 新月亮,https://vip.jianjians.com/?url=
 江湖云,https://api.jhdyw.vip/?url=
 游艺解析,https://api.u1o.net/?url=
+番茄资源,https://jx.fqzy.cc/jx.php?url=
+天堂影视,https://vip.parwix.com:4433/player/?url=
 OK,https://okjx.cc/?url=
 凉城解析,http://jx.mw0.cc/?url=
 蓝猫,https://jx.daidaitv.top:43810/?url=
@@ -151,7 +153,6 @@ m3u8, https://jx.m3u8.tv/jiexi/?url=
 弹幕,http://play.xing1.club/m3u8.php/?url=
 郭慕涵,http://www.qinglyy.com/m3u8/?url=
 全网,https://jiexi.11mc.com/jiexi/?url=
-parwix,http://jx.parwix.com:4433/player/?url=
 jsonm3u8,http://json.m3u8.tv:7788/json.php?url=
 jsonvodjx,http://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
 纯净,http://z1.m1907.cn/?jx=
