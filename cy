@@ -122,16 +122,22 @@ X8影音,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
+樱花,https://buaon.xyz/?url=
+VIP尊享,https://player.maqq.cn/?url=
+追剧达人,https://vip123kan.vip/m3u8.php?url=
+云解析,https://jx.aidouer.net/?url=
+人人迷,https://jx.renrenmi.cc/?url=
+暮光解析,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
+BL,https://vip.bljiex.com/?v=
 1717,http://www.1717yun.com/jx/ty.php?url=
-鲨鱼,https://www.mgtv.com.favnow.com/?token=sharktv&v=
-云播,https://jx5.178du.com/p1/?url=
-chok,https://www.chok8.com/jx/?url=
+新月亮,https://vip.jianjians.com/?url=
+江湖云,https://api.jhdyw.vip/?url=
+游艺解析,https://api.u1o.net/?url=
 OK,https://okjx.cc/?url=
-七哥,http://jx.mmkv.cn/tv.php?url=
+凉城解析,http://jx.mw0.cc/?url=
 蓝猫,https://jx.daidaitv.top:43810/?url=
 全网,https://api.0xu.cc/?url=
-199,http://dm.199cn.cn/vip/?url=
-2ajx,https://www.2ajx.com/vip.php?url=
+麻瓜,http://player.maguays.cc/?url=
 解析啦, https://api.jiexi.la/?url=
 playm3u8, https://www.playm3u8.cn/jiexi.php?url=
 m3u8, https://jx.m3u8.tv/jiexi/?url=
