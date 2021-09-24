@@ -582,7 +582,7 @@
       "name": "乐多资源",
       "type": 0,
       "api": "http://api.leduosj.com/inc/api.php",
-      "playUrl": ""
+      "playUrl": "https://api.ldjx.cc/wp-api/ifr.php?vid="
     },
     {
       "key": "嗨哆咪影视",
