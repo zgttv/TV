@@ -208,7 +208,7 @@ CCTV5,http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv5/1.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 CCTV7,http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
-CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10,http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv10/1.m3u8
 CCTV12,http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv12/1.m3u8
