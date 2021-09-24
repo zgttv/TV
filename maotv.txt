@@ -478,7 +478,7 @@
       "name": "乐多采集",
       "type": 0,
       "api": "https://cj.leduocaiji.com/inc/api.php",
-      "playUrl": "https://api.ldjx.cc/wp-api/ifr.php?vid=",
+      "playUrl": "https://ldy.jx.cn/wp-api/ifr.php?vid=",
       "categories": [
         "综艺",
         "动作片",
