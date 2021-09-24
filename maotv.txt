@@ -592,6 +592,13 @@
       "playUrl": ""
     },
     {
+      "key": "人人迷蓝光",
+      "name": "人人迷蓝光",
+      "type": 0,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "竹嘎蓝光解析",
       "name": "竹嘎蓝光解析",
       "type": 0,
@@ -610,6 +617,34 @@
       "name": "任我云",
       "type": 0,
       "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "椰子资源",
+      "name": "椰子资源",
+      "type": 0,
+      "api": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "多多资源",
+      "name": "多多资源",
+      "type": 0,
+      "api": "https://www.duoduozy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "乐多资源",
+      "name": "乐多资源",
+      "type": 0,
+      "api": "http://api.leduosj.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "嗨哆咪影视",
+      "name": "嗨哆咪影视",
+      "type": 0,
+      "api": "http://hdmys1.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
