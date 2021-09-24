@@ -212,6 +212,7 @@ CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10,http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv10/1.m3u8
 CCTV12,http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv12/1.m3u8
+CCTV13,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 CCTV14,http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
@@ -222,6 +223,7 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
