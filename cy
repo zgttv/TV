@@ -305,5 +305,6 @@ TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+TVB翡翠,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 【港澳频道尾】
 结束
