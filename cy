@@ -135,6 +135,7 @@ BL,https://vip.bljiex.com/?v=
 游艺解析,https://api.u1o.net/?url=
 番茄资源,https://jx.fqzy.cc/jx.php?url=
 天堂影视,https://vip.parwix.com:4433/player/?url=
+乐多资源,https://ldy.jx.cn/wp-api/ifr.php?vid=
 OK,https://okjx.cc/?url=
 凉城解析,http://jx.mw0.cc/?url=
 蓝猫,https://jx.daidaitv.top:43810/?url=
