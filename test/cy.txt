@@ -180,9 +180,6 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 CCTV-风云足球,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231547/index.m3u8
-咪咕体育1,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231778/index.m3u8
-咪咕体育2,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232023/index.m3u8
-咪咕体育3,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232024/index.m3u8
 【足球频道尾】
 【港澳频道头】
 澳視卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
