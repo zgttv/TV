@@ -76,7 +76,6 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 美剧天堂,https://www.meijuday.com/api.php/provide/vod/at/xml,解析
 九九美剧,https://www.999meiju.com/api.php/provide/vod/at/xml,解析
 泰剧迷,https://www.taijumi.cc/api.php/provide/vod/at/xml/,解析
-测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
 樱花,https://buaon.xyz/?url=
@@ -86,34 +85,20 @@ VIP尊享,https://player.maqq.cn/?url=
 人人迷,https://jx.renrenmi.cc/?url=
 暮光解析,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
 BL,https://vip.bljiex.com/?v=
-1717,http://www.1717yun.com/jx/ty.php?url=
-新月亮,https://vip.jianjians.com/?url=
+月亮,https://vip.jianjians.com/?url=
 江湖云,https://api.jhdyw.vip/?url=
 游艺解析,https://api.u1o.net/?url=
 番茄资源,https://jx.fqzy.cc/jx.php?url=
 天堂影视,https://vip.parwix.com:4433/player/?url=
 乐多资源,https://ldy.jx.cn/wp-api/ifr.php?vid=
 OK,https://okjx.cc/?url=
-凉城解析,http://jx.mw0.cc/?url=
+云解析,http://jx.mw0.cc/?url=
 蓝猫,https://jx.daidaitv.top:43810/?url=
 全网,https://api.0xu.cc/?url=
 麻瓜,http://player.maguays.cc/?url=
 解析啦, https://api.jiexi.la/?url=
-playm3u8, https://www.playm3u8.cn/jiexi.php?url=
-m3u8, https://jx.m3u8.tv/jiexi/?url=
-飞越,http://feiyue.rf.gd/?v=
-618g,http://jx.618g.com/?url=
-618g,https://jx.618g.com/?url=
-10dy,https://api.10dy.net/?url=
-线路6,https://jx.elwtc.com/vip/?url=
 小蒋,http://www.kpezp.cn/jlexi.php?url=
-暮光,http://muguang.mgtv.com.muguangys.com/jiexi.php?url=
-弹幕,http://play.xing1.club/m3u8.php/?url=
-郭慕涵,http://www.qinglyy.com/m3u8/?url=
 全网,https://jiexi.11mc.com/jiexi/?url=
-jsonm3u8,http://json.m3u8.tv:7788/json.php?url=
-jsonvodjx,http://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
-纯净,http://z1.m1907.cn/?jx=
 高速,http://jsap.attakids.com/?url=
 B站1,http://vip.parwix.com:4433/player/?url=
 B站2,http://www.cuan.la/m3u8.php?url=
@@ -146,12 +131,8 @@ MUTV,http://jiexi.janan.net/jiexi/?url=
 智能,http://vip.kurumit3.top/?v=
 星驰,http://vip.cjys.top/?url=
 星空,http://60jx.com/?url=
-月亮,http://api.yueliangjx.com/?url=
 0523,http://go.yh0523.cn/y.cy?url=
 云端,http://jx.ergan.top/?url=
-66,http://api.3jx.top/vip/?url=
-116,http://jx.116kan.com/?url=
-200,http://vip.66parse.club/?url=
 云析,http://jx.yparse.com/index.php?url=
 8090,http://www.8090g.cn/?url=
 结束
@@ -218,14 +199,6 @@ CCTV-风云足球,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88
 港台電視,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視,https://cdn.hkdtmb.com/hls/33/index.m3u8
 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.flv
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
@@ -253,10 +226,6 @@ Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 Sony,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
