@@ -6,7 +6,6 @@ X8影音,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml,解析
 555TV,http://w7tv.com/api.php/provide/vod/at/xml,解析
 片库网,https://pianku.wang/api.php/provide/vod/at/xml,解析
 任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
-嘿锋影视,https://www.hfys8.vip/api.php/provide/vod/at/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 融兴资源,https://www.rongxingvr.com/api.php/provide/vod/at/xml,解析
