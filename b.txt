@@ -1,8 +1,5 @@
 点播：
-1717,http://zy.itono.cn/inc/api.php,解析
-淘剧,http://zy.ataoju.com/inc/api.php,解析
 初心,https://18mv.club/api.php/provide/vod/at/xml,解析
-乐猫,https://98hyk.cn/api.php/provide/vod/at/xml,解析
 明日,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 百度,https://api.bdjx.vip/api.php/provide/vod/at/xml,解析
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
@@ -86,7 +83,6 @@ cptv2,http://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 【央视频道尾】
 【少儿教育头】
-八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
@@ -274,6 +270,7 @@ cptv2,http://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8
 【港澳频道头】
 澳门葡萄牙,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台1,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
