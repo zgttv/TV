@@ -55,11 +55,11 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 电影牛,https://www.dianyingn.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
+人人迷,https://jx.renrenmi.cc/?url=
 樱花,https://buaon.xyz/?url=
 江湖云,https://api.jhdyw.vip/?url=
 游艺解析,https://api.u1o.net/?url=
 云解析,https://jx.aidouer.net/?url=
-人人迷,https://jx.renrenmi.cc/?url=
 BL,https://vip.bljiex.com/?v=
 月亮,https://vip.jianjians.com/?url=
 全网,https://jiexi.11mc.com/jiexi/?url=
