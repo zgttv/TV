@@ -78,6 +78,7 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 樱花,https://buaon.xyz/?url=
+莎比,https://www.8.vin/?v=
 VIP尊享,https://player.maqq.cn/?url=
 追剧达人,https://vip123kan.vip/m3u8.php?url=
 云解析,https://jx.aidouer.net/?url=
