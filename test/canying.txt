@@ -67,7 +67,6 @@ BL,https://vip.bljiex.com/?v=
 Ckplayer,http://www.ckplayer.vip/jiexi/?url=
 ccyjjd,http://ckmov.ccyjjd.com/ckmov/?url=
 M3U8,http://jx.m3u8.tv/jiexi/?url=
-Mao,http://qd.hxys.tv/m3u8.php?url=
 ckmov,http://www.ckmov.vip/api.php?url=
 维多,http://jx.ivito.cn/?url=
 星驰,http://vip.cjys.top/?url=
