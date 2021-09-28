@@ -82,6 +82,7 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 结束
 解析：
 大亨影院,http://jx.13tv.top/?url=
+瓜皮,http://jxx.dijiaxia.com/?url=
 江湖云,https://api.jhdyw.vip/?url=
 游艺解析,https://api.u1o.net/?url=
 VIP尊享,https://player.maqq.cn/?url=
