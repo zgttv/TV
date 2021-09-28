@@ -30,6 +30,13 @@
       "playUrl": ""
     },
     {
+      "key": "美剧天堂",
+      "name": "美剧天堂",
+      "type": 0,
+      "api": "https://www.meijuday.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "泰剧迷",
       "name": "泰剧迷",
       "type": 0,
@@ -545,6 +552,12 @@
       "playUrl": "https://ss.wyhdj.com/k5/?url="
     },
     {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 0,
+      "api": "http://www.xfeiji.com/api.php/provide/vod/at/xml"
+    },
+    {
       "key": "555TV",
       "name": "555TV",
       "type": 0,
@@ -696,6 +709,12 @@
       "type": 0,
       "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+    },
+    {
+      "key": "晓峰影视",
+      "name": "晓峰影视",
+      "type": 0,
+      "api": "http://api.xxcr.tk/api.php/provide/vod/at/xml"
     },
     {
       "key": "360资源",
