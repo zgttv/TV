@@ -6,7 +6,7 @@
       "key": "极品影视",
       "name": "极品影视",
       "type": 0,
-      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -91,6 +91,13 @@
       "type": 1,
       "api": "https://www.vp1127.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://ss.wyhdj.com/k5/?url="
+    },
+    {
+      "key": "北斗星资源",
+      "name": "北斗星资源",
+      "type": 1,
+      "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": ""
     },
     {
       "key": "美剧天堂",
@@ -269,14 +276,7 @@
       "key": "小小资源",
       "name": "小小资源",
       "type": 0,
-      "api": "http://haowywz.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "新女神",
-      "name": "新女神",
-      "type": 0,
-      "api": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml/",
+      "api": "http://haowywz.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
@@ -543,6 +543,10 @@
       "url": "https://jx.aidouer.net/?url="
     },
     {
+      "name": "金抖云",
+      "url": "https://jf.4z.cm/jx/?url="
+    },
+    {
       "name": "人人迷",
       "url": "https://jx.renrenmi.cc/?url="
     },
@@ -561,6 +565,10 @@
     {
       "name": "新月亮",
       "url": "https://vip.jianjians.com/?url="
+    },
+    {
+      "name": "番茄",
+      "url": "https://dp.8b5q.cn/dplayer/?url="
     },
     {
       "name": "凉城解析",
