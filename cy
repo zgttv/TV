@@ -81,13 +81,13 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
-樱花,https://buaon.xyz/?url=
+大亨影院,http://jx.13tv.top/?url=
+江湖云,https://api.jhdyw.vip/?url=
+游艺解析,https://api.u1o.net/?url=
 VIP尊享,https://player.maqq.cn/?url=
 追剧达人,https://vip123kan.vip/m3u8.php?url=
 云解析,https://jx.aidouer.net/?url=
 人人迷,https://jx.renrenmi.cc/?url=
-江湖云,https://api.jhdyw.vip/?url=
-游艺解析,https://api.u1o.net/?url=
 暮光解析,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
 BL,https://vip.bljiex.com/?v=
 1717,http://www.1717yun.com/jx/ty.php?url=
@@ -96,6 +96,7 @@ BL,https://vip.bljiex.com/?v=
 天堂影视,https://vip.parwix.com:4433/player/?url=
 乐多资源,https://ldy.jx.cn/wp-api/ifr.php?vid=
 OK,https://okjx.cc/?url=
+樱花,https://buaon.xyz/?url=
 凉城解析,http://jx.mw0.cc/?url=
 蓝猫,https://jx.daidaitv.top:43810/?url=
 全网,https://api.0xu.cc/?url=
