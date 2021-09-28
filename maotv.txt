@@ -182,13 +182,6 @@
       "playUrl": ""
     },
     {
-      "key": "安逸影院",
-      "name": "安逸影院",
-      "type": 0,
-      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-      "playUrl": ""
-    },
-    {
       "key": "BL视频",
       "name": "BL视频",
       "type": 0,
