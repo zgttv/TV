@@ -1,5 +1,5 @@
 {
-     "spider": "http://192.168.7.1/custom_spider.jar?raw=true",
+     "spider": "https://github.com/maxduke/MyPlayList/blob/master/maoTV/custom_spider.jar?raw=true",
      "sites": [
       {
         "key": "csp_Aidi",
