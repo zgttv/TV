@@ -19,7 +19,9 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 橘猫影视,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 蘑菇资源,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
 虾米资源,https://zy.xmflv.vip/api.php/provide/vod/at/xml,解析
+南瓜影视,http://www.xfeiji.com/api.php/provide/vod/at/xml,解析
 天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析
+晓峰影视,http://api.xxcr.tk/api.php/provide/vod/at/xml,解析
 星辰云源,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml,解析
 360资源,http://xa88.vip:88/api.php/provide/vod/at/xml,解析
 三零资源,http://api.000zy.com/provide/vod/at/xml,解析
