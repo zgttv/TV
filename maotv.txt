@@ -154,8 +154,8 @@
       "playUrl": ""
     },
     {
-      "key": "橘猫影视",
-      "name": "橘猫影视",
+      "key": "神马影视",
+      "name": "神马影视",
       "type": 0,
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml",
       "playUrl": ""
@@ -523,10 +523,6 @@
   ],
   "parses": [
     {
-      "name": "大亨影院",
-      "url": "http://jx.13tv.top/?url="
-    },
-    {
       "name": "游艺解析",
       "url": "https://api.u1o.net/?url="
     },
@@ -545,6 +541,14 @@
     {
       "name": "云解析",
       "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "瓜皮TV",
+      "url": "http://jxx.dijiaxia.com/?url="
+    },
+    {
+      "name": "大亨影院",
+      "url": "http://jx.13tv.top/?url="
     },
     {
       "name": "金抖云",
