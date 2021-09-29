@@ -182,6 +182,13 @@
       "playUrl": ""
     },
     {
+      "key": "瓜皮TV",
+      "name": "瓜皮TV",
+      "type": 0,
+      "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
+      "playUrl": "http://jxx.dijiaxia.com/?url="
+    },
+    {
       "key": "BL视频",
       "name": "BL视频",
       "type": 0,
