@@ -3,6 +3,7 @@
 火星2048,https://www.hx2048.com/api.php/provide/vod/at/xml,解析
 MBOmovie,https://www.mbomovie.com/api.php/provide/vod/at/xml,解析
 555TV,http://w7tv.com/api.php/provide/vod/at/xml,解析
+瓜皮TV,http://www.dijiaxia.com/api.php/provide/vod/at/xml,解析
 片库网,https://pianku.wang/api.php/provide/vod/at/xml,解析
 任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
 嘿锋影视,https://www.hfys8.vip/api.php/provide/vod/at/xml,解析
@@ -81,13 +82,13 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 测试,http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml,解析
 结束
 解析：
-大亨影院,http://jx.13tv.top/?url=
-瓜皮,http://jxx.dijiaxia.com/?url=
-江湖云,https://api.jhdyw.vip/?url=
 游艺解析,https://api.u1o.net/?url=
+江湖云,https://api.jhdyw.vip/?url=
 VIP尊享,https://player.maqq.cn/?url=
 追剧达人,https://vip123kan.vip/m3u8.php?url=
 云解析,https://jx.aidouer.net/?url=
+大亨影院,http://jx.13tv.top/?url=
+瓜皮,http://jxx.dijiaxia.com/?url=
 人人迷,https://jx.renrenmi.cc/?url=
 暮光解析,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
 BL,https://vip.bljiex.com/?v=
