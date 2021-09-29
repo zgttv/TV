@@ -100,6 +100,13 @@
       "playUrl": ""
     },
     {
+      "key": "TVB云播",
+      "name": "TVB云播",
+      "type": 0,
+      "api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "美剧天堂",
       "name": "美剧天堂",
       "type": 0,
