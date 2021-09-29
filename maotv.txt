@@ -1004,5 +1004,7 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+  "wallpaper": 
+"https://img.jk51.com/img_jk51/339236193.jpeg"
 }
