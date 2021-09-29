@@ -1225,8 +1225,12 @@
   ],
   "parses": [
     {
-      "name": "大亨影院",
-      "url": "http://jx.13tv.top/?url="
+      "name": "游艺解析",
+      "url": "https://api.u1o.net/?url="
+    },
+    {
+      "name": "江湖云",
+      "url": "https://api.jhdyw.vip/?url="
     },
     {
       "name": "樱花",
@@ -1243,6 +1247,14 @@
     {
       "name": "云解析",
       "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "瓜皮TV",
+      "url": "http://jxx.dijiaxia.com/?url="
+    },
+    {
+      "name": "大亨影院",
+      "url": "http://jx.13tv.top/?url="
     },
     {
       "name": "人人迷",
@@ -1263,14 +1275,6 @@
     {
       "name": "新月亮",
       "url": "https://vip.jianjians.com/?url="
-    },
-    {
-      "name": "江湖云",
-      "url": "https://api.jhdyw.vip/?url="
-    },
-    {
-      "name": "游艺解析",
-      "url": "https://api.u1o.net/?url="
     },
     {
       "name": "凉城解析",
