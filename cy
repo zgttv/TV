@@ -73,7 +73,8 @@ YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
 热映网,http://hl.reying.vip/api.php/provide/vod/at/xml,解析
 蜂鸟视频,https://v.fnsp0.com/api.php/provide/vod/at/xml,解析
 X8影音,https://www.x8x8-vip-1.ru/api.php/provide/vod/at/xml,解析
-TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
+TVB云播1,https://www.hktv03.com/api.php/provide/vod/at/xml,解析
+TVB云播2,http://www.tvyb02.com/api.php/provide/vod/at/xml,解析
 韩剧资源,http://www.hanjuzy.com/inc/api.php,解析
 美剧星球,https://www.meijuxq.com/inc/api.php,解析
 美剧天堂,https://www.meijuday.com/api.php/provide/vod/at/xml,解析
