@@ -104,7 +104,7 @@
       "name": "TVB云播",
       "type": 0,
       "api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
+      "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
       "key": "美剧天堂",
