@@ -503,6 +503,13 @@
       "playUrl": "https://ss.wyhdj.com/k5/?url="
     },
     {
+      "key": "瓜皮TV",
+      "name": "瓜皮TV",
+      "type": 0,
+      "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
+      "playUrl": "http://jxx.dijiaxia.com/?url="
+    },
+    {
       "key": "南瓜影视",
       "name": "南瓜影视",
       "type": 0,
