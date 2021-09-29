@@ -849,7 +849,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "http://www.pandown.pro/custom_spider.jar",
+  "spider": "https://github.com/maxduke/MyPlayList/blob/master/maoTV/qiaoji/custom_spider.jar?raw=true",
   "parses": [
     {
       "name": "暮光解析",
