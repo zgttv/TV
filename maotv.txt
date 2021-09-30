@@ -1022,5 +1022,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": 
-"https://img.jk51.com/img_jk51/339236193.jpeg"
+"https://pic.rmb.bdstatic.com/736a67deffc3958a45c2748896e58046.jpeg"
 }
