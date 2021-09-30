@@ -37,15 +37,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Buka",
-      "name": "真不卡",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "csp_Aidi",
       "name": "爱迪",
       "type": 3,
@@ -73,6 +64,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_Buka",
+      "name": "真不卡",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "豆瓣云",
       "name": "豆瓣云",
       "type": 1,
@@ -83,13 +83,15 @@
       "key": "滴哩TV",
       "name": "滴哩TV",
       "type": 1,
-      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list"
+      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
+      "playUrl": ""
     },
     {
       "key": "千寻影视",
       "name": "千寻影视",
       "type": 1,
-      "api": "http://wy.dqyhg.cn/api.php/provide/vod/?ac=list"
+      "api": "http://wy.dqyhg.cn/api.php/provide/vod/?ac=list",
+      "playUrl": ""
     },
     {
       "key": "人人迷",
@@ -151,14 +153,22 @@
       "key": "555TV",
       "name": "555TV",
       "type": 0,
-      "api": "http://w7tv.com/api.php/provide/vod/at/xml"
+      "api": "http://w7tv.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "MBOmovie",
       "name": "MBOmovie",
       "type": 0,
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
-      "categories": ""
+      "playUrl": ""
+    },
+    {
+      "key": "白嫖资源",
+      "name": "白嫖资源",
+      "type": 0,
+      "api": "http://www.baipiaozy.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "ONE电视",
@@ -185,7 +195,8 @@
       "key": "南瓜影视",
       "name": "南瓜影视",
       "type": 0,
-      "api": "http://www.xfeiji.com/api.php/provide/vod/at/xml"
+      "api": "http://www.xfeiji.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
     },
     {
       "key": "飘花电影",
@@ -248,7 +259,7 @@
       "name": "天堂影视",
       "type": 0,
       "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://vip.parwix.com:4433/player/?url="
+      "playUrl": "https://api.u1o.net/?url="
     },
     {
       "key": "番茄资源",
@@ -290,7 +301,7 @@
       "name": "清莲影院",
       "type": 1,
       "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml24",
-      "playUrl": "https://buaon.xyz/?url="
+      "playUrl": ""
     },
     {
       "key": "爱看啦",
@@ -586,6 +597,10 @@
       "url": "https://api.jhdyw.vip/?url="
     },
     {
+      "name": "瓜皮TV",
+      "url": "http://jxx.dijiaxia.com/?url="
+    },
+    {
       "name": "VIP尊享",
       "url": "https://player.maqq.cn/?url="
     },
@@ -596,10 +611,6 @@
     {
       "name": "云解析",
       "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "瓜皮TV",
-      "url": "http://jxx.dijiaxia.com/?url="
     },
     {
       "name": "大亨影院",
@@ -1054,5 +1065,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": 
-"https://pic.rmb.bdstatic.com/736a67deffc3958a45c2748896e58046.jpeg"
+"http://pic.pptbz.com/pptpic/201111/20111121192959236.jpg"
 }
