@@ -3,6 +3,7 @@
 火星2048,https://www.hx2048.com/api.php/provide/vod/at/xml,解析
 MBOmovie,https://www.mbomovie.com/api.php/provide/vod/at/xml,解析
 555TV,http://w7tv.com/api.php/provide/vod/at/xml,解析
+ONE电视,http://www.onedianshi.com/api.php/provide/vod/at/xml,解析
 瓜皮TV,http://www.dijiaxia.com/api.php/provide/vod/at/xml,解析
 片库网,https://pianku.wang/api.php/provide/vod/at/xml,解析
 任我云,https://www.renwoyun.cn/api.php/provide/vod/at/xml,解析
@@ -15,6 +16,7 @@ BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 电影牛,https://www.dianyingn.com/api.php/provide/vod/at/xml,解析
 爱看啦,http://v.aik.la/api.php/provide/vod/at/xml,解析
 YT影视,http://ytys.cc/api.php/provide/vod/at/xml,解析
+J8电影,https://www.j8dy.org/api.php/provide/vod/at/xml,解析
 迷你库,https://www.miniku.cc/api.php/provide/vod/at/xml,解析
 零玖蓝光影视,https://09tv.top/api.php/provide/vod/at/xml,解析
 橘猫影视,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
