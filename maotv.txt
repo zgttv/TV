@@ -143,6 +143,13 @@
       "categories": ""
     },
     {
+      "key": "ONE电视",
+      "name": "ONE电视",
+      "type": 0,
+      "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
       "key": "灵芝源",
       "name": "灵芝源",
       "type": 0,
@@ -300,6 +307,13 @@
       "name": "小小资源",
       "type": 0,
       "api": "http://haowywz.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "J8电影",
+      "name": "J8电影",
+      "type": 0,
+      "api": "https://www.j8dy.org/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
     {
