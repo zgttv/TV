@@ -217,53 +217,56 @@ CCTV-风云足球,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88
 港台電視,https://cdn.hkdtmb.com/hls/31/index.m3u8
 港台電視,https://cdn.hkdtmb.com/hls/32/index.m3u8
 港台電視,https://cdn.hkdtmb.com/hls/33/index.m3u8
-翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.flv
-埋堆堆,http://121.12.115.108/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.flv
-亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+凤凰资讯,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
+凤凰电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
+天映经典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
+天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
+寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
+年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+东森新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
+三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+中视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
+台视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
+华视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
+民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+有线新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw
+无线新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
+三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
+年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+靖天电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
+中视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
+台视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
+东森新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
+中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
+華视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Bernama,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBO電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-Hello,http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-KBS Wolrd,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Oh!k,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-Sony,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 TVB翡翠,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+龙祥电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+龙华电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+有线电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy
+龙華电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+天映经典台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+玮来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 【港澳频道尾】
 【其他轮播头】
 MIGU喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8 
