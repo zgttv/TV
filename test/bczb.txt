@@ -237,6 +237,15 @@ FZTV少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 综合影视,#genre#
 黑帮大片,http://ye23.win/iptv/huya.php?id=11336719
 周星驰轮播,http://ye23.win/iptv/huya.php?id=11342412
+林正英僵尸,http://ye23.win/iptv/huya.php?id=11342421
+王晶作品,http://ye23.win/iptv/huya.php?id=11602058
+女神系列,http://ye23.win/iptv/huya.php?id=11336571
+经典港剧,http://ye23.win/iptv/huya.php?id=11352965
+国外大片,http://ye23.win/iptv/huya.php?id=11352890
+金庸的武侠,http://ye23.win/iptv/huya.php?id=11342435
+纪晓岚,http://ye23.win/iptv/huya.php?id=11342396
+鹿鼎记,http://ye23.win/iptv/huya.php?id=11601982
+大宅门,http://ye23.win/iptv/huya.php?id=11352956
 明星系列,#genre#
 成   龙,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 吴   京,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
