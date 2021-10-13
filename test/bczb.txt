@@ -53,22 +53,6 @@ CCTV17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 港台電視,https://cdn.hkdtmb.com/hls/31/index.m3u8#https://cdn.hkdtmb.com/hls/33/index.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8
 凤凰资讯,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8
 凤凰电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhdy
-天映经典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
-天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
-壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
-中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
-寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
-年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
-东森新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
-三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
-非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
-中视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
-台视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
-华视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
-民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
-TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
-有线新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw
-无线新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkinews83
 三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
 寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
@@ -82,13 +66,6 @@ TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 东森新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
 中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
 華视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBO電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-TVB翡翠,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 龙祥电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
