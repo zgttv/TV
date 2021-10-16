@@ -1,4 +1,5 @@
 点播：
+奈菲迷,https://vip.naifeimi.com/api.php/provide/vod/from/m3u8/at/xml/,不解析
 若惜资源,https://vip.ruoxinew.com/api.php/provide/vod/at/xml/,解析
 火星2048,https://www.hx2048.com/api.php/provide/vod/at/xml,解析
 MBOmovie,https://www.mbomovie.com/api.php/provide/vod/at/xml,解析
