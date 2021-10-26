@@ -68,7 +68,8 @@
             "type": 0,
             "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
-            "categories": [
+            "categories": ["三级馆"
+                
              ]
         },
         {
