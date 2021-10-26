@@ -1,5 +1,8 @@
 {
     "sites": [
+{"key": "迪迪影院_p","name": "迪迪影院_p","type": 1,"api": "http://vod.98nb.com/app.php?type=迪迪影院","playUrl": ""},
+{"key": "HG影视_p","name": "HG影视_p","type": 1,"api": "http://vod.98nb.com/app.php?type=HG影视","searchable": 0,"quickSearch": 0,"playUrl": ""},
+{"key": "元芳影视_p","name": "元芳影视_p","type": 1,"api": "http://vod.98nb.com/app.php?type=元芳影视","playUrl": ""},
         {
                "key": "神马影院",
             "name": "神马影院",
